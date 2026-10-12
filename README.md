@@ -1,59 +1,19 @@
-# Angel Robotics (엔젤로보틱스) — OpenDART Financial Dashboard
+# 엔젤로보틱스 DART 재무 분석
 
-엔젤로보틱스(종목코드 455900)의 재무 데이터를 OpenDART API에서 수집하고,
-재무비율을 계산한 뒤 GitHub Pages 대시보드로 표시하는 프로젝트입니다.
+[![🔗 대시보드 바로가기](https://img.shields.io/badge/🔗-대시보드%20바로가기-1769aa?style=for-the-badge)](https://HSC-Class01.github.io/HERA_angel-robotics/)
 
-## 데이터 흐름
-OpenDART API → raw JSON → 정규화 CSV/JSON → 재무비율 계산 → GitHub Pages
+- 저장소: https://github.com/HSC-Class01/HERA_angel-robotics
+- 대시보드: https://HSC-Class01.github.io/HERA_angel-robotics/
+- API: https://opendart.fss.or.kr/
 
-## 실행
-```bash
-pip install -r requirements.txt
-```
+## 최초 설정
+1. OpenDART에서 인증키 발급
+2. GitHub 저장소 → Settings → Secrets and variables → Actions → New repository secret
+3. 이름 `DART_API_KEY`, 값은 40자리 인증키로 저장합니다. 키를 코드에 직접 입력하지 마세요.
+4. Settings → Pages에서 GitHub Actions 배포를 선택합니다.
+5. Actions 탭에서 `DART financial update`를 수동 실행합니다.
+6. 저장소 About → Website에 `https://HSC-Class01.github.io/HERA_angel-robotics/`를 입력합니다.
 
-Windows PowerShell:
-```powershell
-$env:DART_API_KEY="발급받은_API_KEY"
-```
+매월 1일 UTC 00:15(한국시간 09:15)에 자동 실행됩니다. 공시 목록은 2010년부터 조회하지만 OpenDART 전체 재무제표 API는 2015년 이후 제공되므로 재무수치의 시작점은 2015년입니다. 분기·반기 손익은 누적값일 수 있습니다. Peer firms는 사업영역 인접 후보이며 직접 비교 전 최신 상장·공시 범위를 확인하세요.
 
-macOS/Linux:
-```bash
-export DART_API_KEY="발급받은_API_KEY"
-```
-
-수집:
-```bash
-python -m src.pipeline --start-year 2023 --end-year 2025 --fs-div OFS
-```
-
-연결재무제표:
-```bash
-python -m src.pipeline --start-year 2023 --end-year 2025 --fs-div CFS
-```
-
-## GitHub Secret
-Repository → Settings → Secrets and variables → Actions → New repository secret
-
-- Name: `DART_API_KEY`
-- Value: OpenDART 40자리 인증키
-
-API 키는 코드/저장소에 직접 넣지 않습니다.
-
-## 생성 데이터
-- `data/raw/` : OpenDART 원본 JSON
-- `data/processed/financial_data.csv`
-- `data/processed/financial_data.json`
-- `data/processed/financial_ratios.csv`
-- `data/processed/financial_ratios.json`
-- `data/processed/company.json`
-
-## 대시보드
-`dashboard/`는 정적 GitHub Pages 사이트입니다.
-
-`.github/workflows/update-dart.yml`가 OpenDART 데이터를 갱신하고,
-`.github/workflows/deploy-pages.yml`가 Pages에 배포합니다.
-
-재무비율은 첨부된 「재무제표 및 재무비율 실무 가이드」의 흐름
-(매출 성장 → 마진 → 현금흐름 → 재무안정성 → 자본효율성)을 반영합니다.
-
-원천 계정이 명확하지 않은 지표는 임의 추정하지 않고 N/A로 둡니다.
+로컬 실행: `pip install -r requirements.txt`; PowerShell에서 `$env:DART_API_KEY="키"` 설정 후 `python src/update_data.py`.
