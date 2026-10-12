@@ -1,1 +1,138 @@
-<!doctype html><html lang="ko"><meta charset="utf-8"><title>엔젤로보틱스 대시보드</title><body style="font:16px Arial;max-width:800px;margin:60px auto;padding:24px"><h1>엔젤로보틱스 재무 대시보드</h1><p>최초 수집 전입니다. GitHub Secret <code>DART_API_KEY</code>를 등록한 뒤 Actions에서 DART financial update를 실행하세요.</p><a href="https://github.com/HSC-Class01/HERA_angel-robotics">저장소</a></body></html>
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="엔젤로보틱스 OpenDART 재무 데이터 및 재무비율 대시보드">
+  <title>엔젤로보틱스 | 재무 대시보드</title>
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <style>
+    :root{--ink:#152841;--muted:#65758a;--blue:#1769aa;--cyan:#45b4d0;--orange:#dd8452;--line:#e2e9f1;--bg:#f4f7fb;--card:#fff}
+    *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 Inter,"Noto Sans KR",Arial,sans-serif}
+    header{padding:34px max(20px,calc((100vw - 1200px)/2)) 30px;background:linear-gradient(122deg,#10243e,#1769aa 75%,#2186bd);color:#fff}
+    header h1{margin:0;font-size:clamp(26px,4vw,40px);letter-spacing:-.045em}header p{margin:8px 0 12px;color:#d7e8f6}header .meta{font-size:12px;color:#d7e8f6}
+    main{max-width:1240px;margin:26px auto;padding:0 20px 54px}.kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin:0 0 18px}
+    .card{background:var(--card);border:1px solid var(--line);border-radius:15px;padding:18px;box-shadow:0 5px 20px #10243e08;min-width:0}
+    .label{font-size:12px;color:var(--muted)}.value{font-size:clamp(20px,2.5vw,28px);font-weight:760;letter-spacing:-.035em;margin:5px 0}.note{font-size:11px;color:var(--muted)}
+    .charts{display:grid;grid-template-columns:1fr 1fr;gap:16px}.section{margin-top:30px}.section h2{margin:0 0 6px;font-size:21px;letter-spacing:-.025em}.section .intro{margin:0 0 13px;color:var(--muted);font-size:13px}.chart{height:335px;width:100%}
+    .tabs{display:flex;gap:8px;flex-wrap:wrap;margin:13px 0}.tab{border:1px solid var(--line);background:#fff;color:var(--ink);border-radius:9px;padding:9px 14px;font:inherit;font-size:13px;cursor:pointer}.tab.active{background:var(--blue);color:#fff;border-color:var(--blue)}
+    .table-wrap{overflow:auto;background:white;border:1px solid var(--line);border-radius:13px}table{border-collapse:separate;border-spacing:0;width:100%;font-size:12px;white-space:nowrap}th,td{padding:10px 12px;border-bottom:1px solid #edf1f5;text-align:right}th{position:sticky;top:0;background:#eff4f9;color:#43536b;font-weight:700;z-index:1}td:first-child,th:first-child{text-align:left}tr:last-child td{border-bottom:0}tbody tr:hover{background:#f8fbfe}
+    .empty{padding:26px;text-align:center;color:var(--muted)}.disclaimer{margin-top:26px;border-top:1px solid var(--line);padding-top:18px;color:var(--muted);font-size:12px}.links a{color:var(--blue);text-decoration:none}.links a:hover{text-decoration:underline}
+    @media(max-width:900px){.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}.charts{grid-template-columns:1fr}.chart{height:290px}}
+    @media(max-width:520px){main{padding:0 12px 35px}.kpis{gap:8px}.card{padding:13px}.value{font-size:20px}.tab{padding:8px 10px}}
+  </style>
+</head>
+<body>
+<header>
+  <h1>엔젤로보틱스 재무 대시보드</h1>
+  <p>OpenDART 정기공시 기반 · 성장성, 수익성, 재무건전성, 현금흐름</p>
+  <div class="meta" id="update-meta">업데이트 정보를 불러오는 중입니다.</div>
+</header>
+<main>
+  <div id="kpis" class="kpis"></div>
+  <div class="charts">
+    <section class="card"><h2>매출 및 영업손익</h2><p class="intro">사업보고서 기준 연간 추이 · 금액 단위는 원자료 기준</p><div id="revenue-chart" class="chart"></div></section>
+    <section class="card"><h2>수익성 지표</h2><p class="intro">사업보고서 기준 영업이익률과 순이익률</p><div id="margin-chart" class="chart"></div></section>
+  </div>
+
+  <section class="section" id="financial-data">
+    <h2>재무 데이터 및 비율</h2>
+    <p class="intro">보고서 분류를 선택하면 해당 카테고리의 정량 데이터가 표시됩니다. 결측값은 0이 아닌 대시(—)로 표시합니다.</p>
+    <div class="tabs" role="tablist" aria-label="보고서 유형">
+      <button class="tab active" data-category="annual" role="tab" aria-selected="true">Annual · 사업보고서</button>
+      <button class="tab" data-category="half_year" role="tab" aria-selected="false">Half-year · 반기보고서</button>
+      <button class="tab" data-category="quarterly" role="tab" aria-selected="false">Quarterly · 분기보고서</button>
+    </div>
+    <div id="financial-table" class="table-wrap"></div>
+  </section>
+
+  <section class="section" id="peer-firms">
+    <h2>국내 Peer Firms</h2>
+    <p class="intro">웨어러블 로봇 및 의료·재활 로봇 시장의 비교 후보입니다. 직접 비교 가능성과 최신 상장/공시 여부를 추가 검토해 주세요.</p>
+    <div id="peer-table" class="table-wrap"></div>
+  </section>
+  <div class="disclaimer links">
+    * EBITDA, net debt and borrowed-debt ratios are displayed only when relevant accounts can be mapped; EBITDA remains blank if only a partial depreciation/amortization account is found. DPO uses cost of sales as a proxy when credit purchases are not separately disclosed; CCC inherits that limitation. Half-year/quarterly profitability and turnover ratios are period-based, not annualized. The quick ratio shown as (current assets − inventory) / current liabilities is an approximation. ROIC uses EBIT after tax based on a disclosed effective tax rate and average (equity + interest-bearing debt − cash) invested capital; periods with unreliable/missing components are blank. Market-value ratios (PER, PBR, EV/EBITDA, FCF yield) are not calculated because share-price/market-capitalization data is not part of this OpenDART-only collector.<br>
+    데이터 출처: <a href="https://opendart.fss.or.kr/" target="_blank" rel="noreferrer">OpenDART</a> ·
+    <a href="https://github.com/HSC-Class01/HERA_angel-robotics" target="_blank" rel="noreferrer">GitHub 저장소</a><br>
+    참고용 자동 분석입니다. 일부 계정은 보고서별 명칭 차이로 결측될 수 있으며, 분기·반기 손익의 누적/단독 기간 기준과 연결/별도 기준을 확인한 후 해석해야 합니다. OpenDART 전체 재무제표 API는 2015년 이후 데이터를 제공합니다.
+  </div>
+</main>
+<script>
+const DATA = {"metrics": [], "updated_at": "2026-10-12T01:48:35.809096+00:00", "peer_firms": [{"name": "코스모로보틱스", "focus": "웨어러블 의료재활·보행보조·산업용 슈트", "relation": "직접 제품시장 비교 후보", "status": "코스닥 상장(2026-09 자료 기준, 코드 439960)", "url": "https://comp.wisereport.co.kr/company/c1010001.aspx?cmp_cd=439960"}, {"name": "위로보틱스", "focus": "웨어러블 보행보조·근력보조 로봇", "relation": "직접 제품시장 비교 후보", "status": "비상장 후보·공개자료 범위 확인", "url": "https://wirobotics.career.greetinghr.com/"}, {"name": "큐렉소", "focus": "수술로봇·보행 재활로봇 Morning Walk", "relation": "의료로봇 인접 비교", "status": "코스닥 상장", "url": "https://www.curexo.com/"}, {"name": "네오펙트", "focus": "디지털 재활·재활 솔루션", "relation": "재활시장 인접 후보", "status": "상장/최근 공시 확인", "url": "https://opendart.fss.or.kr/"}, {"name": "로보티즈", "focus": "로봇 액추에이터·서비스 로봇", "relation": "간접 로봇산업 참고기업", "status": "상장/사업영역 차이 유의", "url": "https://www.robotis.com/"}], "filing_start_year": 2010, "financial_start_year": 2015};
+const ROWS = DATA.metrics || [];
+const fmt = value => value === null || value === undefined || value === '' || !Number.isFinite(Number(value)) ? '—' : new Intl.NumberFormat('ko-KR',{maximumFractionDigits:0}).format(Number(value));
+const pct = value => value === null || value === undefined || value === '' || !Number.isFinite(Number(value)) ? '—' : Number(value).toFixed(1) + '%';
+const ratio = value => value === null || value === undefined || value === '' || !Number.isFinite(Number(value)) ? '—' : Number(value).toFixed(2) + 'x';
+const annualRows = ROWS.filter(r => r.category === 'annual').sort((a,b) => Number(a.year)-Number(b.year));
+const mostRecent = ROWS.slice().sort((a,b) => Number(b.year)-Number(a.year) || String(a.report_code).localeCompare(String(b.report_code)))[0];
+const mostRecentAnnual = annualRows[annualRows.length-1] || mostRecent;
+document.getElementById('update-meta').textContent = `마지막 생성 시각(UTC): ${new Date(DATA.updated_at).toLocaleString('ko-KR')} · 재무 지표 ${ROWS.length}개 · 공시 목록 시작 ${DATA.filing_start_year}년 · 재무수치 시작 ${DATA.financial_start_year}년`;
+const cards = [
+  ['최근 사업보고서 매출', mostRecentAnnual ? fmt(mostRecentAnnual.revenue) : '—', '연간 매출액'],
+  ['영업이익(손실)', mostRecentAnnual ? fmt(mostRecentAnnual.operating_income) : '—', '연간 사업보고서 기준'],
+  ['당기순이익(손실)', mostRecentAnnual ? fmt(mostRecentAnnual.net_income) : '—', '연간 사업보고서 기준'],
+  ['부채비율', mostRecentAnnual ? pct(mostRecentAnnual.debt_to_equity_pct) : '—', '총부채 ÷ 총자본']
+];
+document.getElementById('kpis').innerHTML = cards.map(c => `<div class="card"><div class="label">${c[0]}</div><div class="value">${c[1]}</div><div class="note">${c[2]}</div></div>`).join('');
+if (window.Plotly && annualRows.length) {
+  Plotly.newPlot('revenue-chart', [
+    {x:annualRows.map(r=>r.year), y:annualRows.map(r=>r.revenue), type:'bar', name:'매출액', marker:{color:'#1769aa'}, hovertemplate:'%{x}년<br>매출: %{y:,.0f}<extra></extra>'},
+    {x:annualRows.map(r=>r.year), y:annualRows.map(r=>r.operating_income), type:'scatter', mode:'lines+markers', name:'영업이익(손실)', yaxis:'y2', line:{color:'#dd8452',width:3}, hovertemplate:'%{x}년<br>영업손익: %{y:,.0f}<extra></extra>'}
+  ], {margin:{l:55,r:55,t:10,b:45},paper_bgcolor:'#fff',plot_bgcolor:'#fff',legend:{orientation:'h',y:1.13},xaxis:{title:'사업연도',gridcolor:'#fff'},yaxis:{title:'매출액',gridcolor:'#edf1f5'},yaxis2:{title:'영업손익',overlaying:'y',side:'right',showgrid:false}}, {responsive:true,displayModeBar:false});
+  Plotly.newPlot('margin-chart', [
+    {x:annualRows.map(r=>r.year), y:annualRows.map(r=>r.operating_margin_pct), type:'scatter', mode:'lines+markers', name:'영업이익률', line:{color:'#1769aa',width:3}},
+    {x:annualRows.map(r=>r.year), y:annualRows.map(r=>r.net_margin_pct), type:'scatter', mode:'lines+markers', name:'순이익률', line:{color:'#45b4d0',width:3}}
+  ], {margin:{l:55,r:20,t:10,b:45},paper_bgcolor:'#fff',plot_bgcolor:'#fff',legend:{orientation:'h',y:1.13},xaxis:{title:'사업연도',gridcolor:'#fff'},yaxis:{title:'비율 (%)',gridcolor:'#edf1f5',zeroline:true}}, {responsive:true,displayModeBar:false});
+} else {
+  for (const id of ['revenue-chart','margin-chart']) document.getElementById(id).innerHTML='<div class="empty">수집된 사업보고서 데이터가 없습니다. DART_API_KEY를 등록하고 Actions 워크플로를 실행하세요.</div>';
+}
+const COLS = [
+  ['year','연도','text'], ['report_type','보고서','text'], ['fs_div','연결/별도','text'],
+  ['revenue','매출액','money'], ['revenue_growth_pct','매출증가율','pct'], ['cost_of_sales','매출원가','money'],
+  ['gross_profit','매출총이익','money'], ['gross_margin_pct','매출총이익률','pct'], ['selling_general_admin','판관비','money'],
+  ['operating_income','영업이익(손실)','money'], ['operating_margin_pct','영업이익률','pct'],
+  ['pretax_income','세전이익','money'], ['net_income','당기순이익(손실)','money'], ['controlling_net_income','지배주주순이익','money'], ['basic_eps','기본EPS','money'], ['diluted_eps','희석EPS','money'],
+  ['net_margin_pct','순이익률','pct'], ['ebitda','EBITDA*','money'], ['ebitda_da_status','상각비 매핑','text'], ['ebitda_margin_pct','EBITDA 마진','pct'],
+  ['total_assets','자산총계','money'], ['average_assets','평균자산','money'], ['accounts_receivable','매출채권','money'],
+  ['inventory','재고자산','money'], ['property_plant_equipment','유형자산','money'], ['total_liabilities','부채총계','money'],
+  ['accounts_payable','매입채무','money'], ['total_equity','자본총계','money'], ['interest_bearing_debt','이자부차입금*','money'],
+  ['net_debt','순차입금*','money'], ['debt_to_equity_pct','부채비율','pct'], ['liabilities_to_assets_pct','부채/자산','pct'],
+  ['equity_to_assets_pct','자기자본비율','pct'], ['interest_bearing_debt_to_assets_pct','차입금의존도','pct'],
+  ['current_ratio_pct','유동비율','pct'], ['quick_ratio_pct','당좌비율(근사)','pct'],
+  ['cash_flow_operations','영업현금흐름','money'], ['cash_flow_investing','투자현금흐름','money'],
+  ['cash_flow_financing','재무현금흐름','money'], ['capex_cash_outflow','CAPEX','money'], ['free_cash_flow','FCF','money'],
+  ['cfo_to_net_income_x','CFO/순이익','ratio'], ['interest_coverage_x','이자보상배율','ratio'], ['net_debt_to_ebitda_x','순차입금/EBITDA','ratio'],
+  ['roa_pct','ROA','pct'], ['roe_pct','ROE','pct'], ['roic_pct','ROIC*','pct'], ['total_assets_turnover_x','총자산회전율','ratio'],
+  ['dso_days','DSO(일)','days'], ['dio_days','DIO(일)','days'], ['dpo_days','DPO(일)*','days'], ['ccc_days','CCC(일)*','days'], ['fcf_margin_pct','FCF 마진','pct']
+];
+function renderFinancialTable(category) {
+  const matching = ROWS.filter(r => r.category === category).sort((a,b) => Number(b.year)-Number(a.year) || String(a.report_code).localeCompare(String(b.report_code)) || String(a.fs_div).localeCompare(String(b.fs_div)));
+  const target = document.getElementById('financial-table');
+  if (!matching.length) { target.innerHTML='<div class="empty">해당 보고서 유형의 수치가 없습니다. API 키를 등록하고 Actions에서 최초 수집을 실행해 주세요.</div>'; return; }
+  const head = COLS.map(c=>`<th>${c[1]}</th>`).join('');
+  const body = matching.map(row => '<tr>'+COLS.map(c=>{
+    const value=row[c[0]];
+    let formatted = value;
+    if (c[2]==='money') formatted=fmt(value);
+    else if (c[2]==='pct') formatted=pct(value);
+    else if (c[2]==='ratio') formatted=ratio(value);
+    else if (c[2]==='days') formatted=value===null || value===undefined || !Number.isFinite(Number(value)) ? '—' : Number(value).toFixed(1);
+    else if (c[0]==='ebitda_da_status') formatted=({combined:'통합 계정',separate:'유형·무형 상각비',partial:'부분 계정',unavailable:'미공시'})[value] || value;
+    return `<td>${formatted===null || formatted===undefined ? '—' : formatted}</td>`;
+  }).join('')+'</tr>').join('');
+  target.innerHTML=`<table><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>`;
+}
+document.querySelectorAll('.tab').forEach(button => button.addEventListener('click', () => {
+  document.querySelectorAll('.tab').forEach(other => {other.classList.remove('active');other.setAttribute('aria-selected','false');});
+  button.classList.add('active');button.setAttribute('aria-selected','true');renderFinancialTable(button.dataset.category);
+}));
+function renderPeers() {
+  const peers=DATA.peer_firms||[];
+  if(!peers.length){document.getElementById('peer-table').innerHTML='<div class="empty">Peer firms 데이터가 없습니다.</div>';return;}
+  document.getElementById('peer-table').innerHTML='<table><thead><tr><th>기업</th><th>주요 사업</th><th>비교 적합성</th><th>상장/공시 확인</th></tr></thead><tbody>'+peers.map(p=>`<tr><td><a href="${p.url}" target="_blank" rel="noreferrer">${p.name}</a></td><td>${p.focus}</td><td>${p.relation}</td><td>${p.status}</td></tr>`).join('')+'</tbody></table>';
+}
+renderFinancialTable('annual');renderPeers();
+</script>
+</body>
+</html>
