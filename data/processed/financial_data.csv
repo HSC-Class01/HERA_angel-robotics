@@ -1,0 +1,1236 @@
+﻿year,report_code,report_type,category,fs_div,sj_div,account_id,account_detail,account_nm,thstrm_nm,thstrm_dt,thstrm_amount,thstrm_add_amount,frmtrm_nm,frmtrm_amount,frmtrm_q_nm,frmtrm_q_amount,bfefrmtrm_nm,bfefrmtrm_amount,rcept_no
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_Assets,-,자산총계,제 7 기,,21318165682.0,,제 6 기,16455476884.0,,,제 5 기,22394101355.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentAssets,-,유동자산,제 7 기,,17187995497.0,,제 6 기,12461943651.0,,,제 5 기,18322539147.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_CashAndCashEquivalents,-,현금및현금성자산,제 7 기,,4161370525.0,,제 6 기,2068831966.0,,,제 5 기,3083105591.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentContractAssets,-,계약자산,제 7 기,,321828382.0,,제 6 기,193612727.0,,,제 5 기,35453709.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,-,당기손익-공정가치금융자산,제 7 기,,0.0,,제 6 기,6053260272.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentTaxAssets,-,당기법인세자산,제 7 기,,35306530.0,,제 6 기,32773340.0,,,제 5 기,1232600.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_Inventories,-,재고자산,제 7 기,,906965861.0,,제 6 기,1233494802.0,,,제 5 기,524514860.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherCurrentAssets,-,기타유동자산,제 7 기,,311207264.0,,제 6 기,319781703.0,,,제 5 기,263003328.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherCurrentFinancialAssets,-,기타금융자산,제 7 기,,442881935.0,,제 6 기,125187841.0,,,제 5 기,32229059.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,-,단기금융상품,제 7 기,,10000000000.0,,제 6 기,2000000000.0,,,제 5 기,14000000000.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_TradeAndOtherCurrentReceivables,-,매출채권,제 7 기,,1008435000.0,,제 6 기,435001000.0,,,제 5 기,383000000.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentAssets,-,비유동자산,제 7 기,,4130170185.0,,제 6 기,3993533233.0,,,제 5 기,4071562208.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,dart_LongTermDepositsNotClassifiedAsCashEquivalents,-,장기금융상품,제 7 기,,98736.0,,제 6 기,75204.0,,,제 5 기,50136.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_IntangibleAssetsOtherThanGoodwill,-,무형자산,제 7 기,,681158490.0,,제 6 기,300810496.0,,,제 5 기,242387155.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,-,당기손익-공정가치금융자산,제 7 기,,100000.0,,제 6 기,100000.0,,,제 5 기,100000.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherNoncurrentFinancialAssets,-,기타금융자산,제 7 기,,386390821.0,,제 6 기,383067685.0,,,제 5 기,446689606.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_PropertyPlantAndEquipment,-,유형자산,제 7 기,,3062422138.0,,제 6 기,3309479848.0,,,제 5 기,3382335311.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,dart_CapitalSurplus,-,자본잉여금,제 7 기,,49884560718.0,,제 6 기,14154942873.0,,,제 5 기,14109938518.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,-,기타자본항목,제 7 기,,1810536386.0,,제 6 기,1596874342.0,,,제 5 기,860882706.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_Equity,-,자본총계,제 7 기,,8677896459.0,,제 6 기,-19785449759.0,,,제 5 기,-13863147566.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_IssuedCapital,-,자본금,제 7 기,,6183488000.0,,제 6 기,4419360000.0,,,제 5 기,4413360000.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_RetainedEarnings,-,결손금,제 7 기,,-49200688645.0,,제 6 기,-39956626974.0,,,제 5 기,-33247328790.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_EquityAndLiabilities,-,자본과부채총계,제 7 기,,21318165682.0,,제 6 기,16455476884.0,,,제 5 기,22202601355.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentLiabilities,-,유동부채,제 7 기,,11018322980.0,,제 6 기,34708666827.0,,,제 5 기,34578687406.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,dart_ConvertibleRedeemablePreferredStockLiabilities,-,전환상환우선주부채,제 7 기,,0.0,,제 6 기,8310238176.0,,,제 5 기,7556093116.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,-표준계정코드 미사용-,-,전환우선주부채,제 7 기,,9604804440.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentContractLiabilities,-,계약부채,제 7 기,,181121691.0,,제 6 기,192015436.0,,,제 5 기,207525298.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentLeaseLiabilities,-,리스부채,제 7 기,,489494155.0,,제 6 기,464332484.0,,,제 5 기,461821027.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_DerivativeFinancialLiabilities,-,파생상품부채,제 7 기,,0.0,,제 6 기,25070242412.0,,,제 5 기,25911136150.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherCurrentFinancialLiabilities,-,기타금융부채,제 7 기,,321260006.0,,제 6 기,255833273.0,,,제 5 기,311031853.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherCurrentLiabilities,-,기타 유동부채,제 7 기,,323030378.0,,제 6 기,223247486.0,,,제 5 기,83231719.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_TradeAndOtherCurrentPayables,-,매입채무,제 7 기,,98612310.0,,제 6 기,192757560.0,,,제 5 기,47848243.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_Liabilities,-,부채총계,제 7 기,,12640269223.0,,제 6 기,36240926643.0,,,제 5 기,36065748921.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentLiabilities,-,비유동부채,제 7 기,,1621946243.0,,제 6 기,1532259816.0,,,제 5 기,1487061515.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,dart_PostemploymentBenefitObligations,-,순확정급여부채,제 7 기,,319630356.0,,제 6 기,250554736.0,,,제 5 기,256931743.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,-표준계정코드 미사용-,-,장기종업원급여부채,제 7 기,,49161160.0,,제 6 기,34307551.0,,,제 5 기,25284059.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentLeaseLiabilities,-,리스부채,제 7 기,,187354238.0,,제 6 기,482828010.0,,,제 5 기,719398463.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentProvisions,-,충당부채,제 7 기,,618141990.0,,제 6 기,352943793.0,,,제 5 기,182509835.0,20240328001733
+2023,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,-,기타금융부채,제 7 기,,447658499.0,,제 6 기,411625726.0,,,제 5 기,302937415.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,dart_OperatingIncomeLoss,-,영업손실,제 7 기,,-6496614879.0,,제 6 기,-7101028909.0,,,제 5 기,-4828658015.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,dart_OtherGains,-,기타수익,제 7 기,,1342976.0,,제 6 기,874065164.0,,,제 5 기,4053888.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,dart_OtherLosses,-,기타비용,제 7 기,,2857464841.0,,제 6 기,51269454.0,,,제 5 기,18545338063.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,-,판매비와관리비,제 7 기,,9263630852.0,,제 6 기,8102769995.0,,,제 5 기,5078488241.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,ifrs-full_ComprehensiveIncome,-,총포괄손익,제 7 기,,-9244061671.0,,제 6 기,-6709298184.0,,,제 5 기,-24202474886.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,ifrs-full_CostOfSales,-,매출원가,제 7 기,,2379170428.0,,제 6 기,1182571276.0,,,제 5 기,564099019.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,ifrs-full_BasicEarningsLossPerShare,-,기본주당손실,제 7 기,,-886.0,,제 6 기,-770.0,,,제 5 기,-3201.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,ifrs-full_DilutedEarningsLossPerShare,-,희석주당손실,제 7 기,,-886.0,,제 6 기,-770.0,,,제 5 기,-3201.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,ifrs-full_FinanceCosts,-,금융비용,제 7 기,,613554072.0,,제 6 기,806602690.0,,,제 5 기,784524596.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,ifrs-full_FinanceIncome,-,금융수익,제 7 기,,727339255.0,,제 6 기,287526059.0,,,제 5 기,60423200.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,ifrs-full_GrossProfit,-,매출총이익,제 7 기,,2767015973.0,,제 6 기,1001741086.0,,,제 5 기,249830226.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,-,법인세비용,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,ifrs-full_OtherComprehensiveIncome,-,기타포괄손익,제 7 기,,-5110110.0,,제 6 기,88011646.0,,,제 5 기,-108431300.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-,순확정급여부채의 재측정요소,제 7 기,,-5110110.0,,제 6 기,88011646.0,,,제 5 기,-108431300.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,ifrs-full_ProfitLoss,-,당기순손실,제 7 기,,-9238951561.0,,제 6 기,-6797309830.0,,,제 5 기,-24094043586.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,ifrs-full_ProfitLossBeforeTax,-,법인세비용차감전순손실,제 7 기,,-9238951561.0,,제 6 기,-6797309830.0,,,제 5 기,-24094043586.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CIS,ifrs-full_Revenue,-,매출액,제 7 기,,5146186401.0,,제 6 기,2184312362.0,,,제 5 기,813929245.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,-,기초현금및현금성자산,제 7 기,,2068831966.0,,제 6 기,3083105591.0,,,제 5 기,5199442439.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,-,기말현금및현금성자산,제 7 기,,4161370525.0,,제 6 기,2068831966.0,,,제 5 기,3083105591.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,-,재무활동현금흐름,제 7 기,,9645895494.0,,제 6 기,-430209537.0,,,제 5 기,17705843163.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,-,금융리스부채의 상환,제 7 기,,440657446.0,,제 6 기,437845360.0,,,제 5 기,213504355.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,dart_ProceedsFromExerciseOfShareOptions,-,주식선택권의 행사,제 7 기,,86560000.0,,제 6 기,7635823.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,-표준계정코드 미사용-,-,전환우선주의 발행,제 7 기,,9999992940.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,ifrs-full_ProceedsFromIssuingShares,-,유상증자,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,17919347518.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,-,투자활동현금흐름,제 7 기,,-3200672461.0,,제 6 기,5175220675.0,,,제 5 기,-16066662561.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,dart_DecreaseInGuaranteeDeposits,-,보증금의 감소,제 7 기,,27407000.0,,제 6 기,0.0,,,제 5 기,41481800.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,dart_IncreaseInGuaranteeDeposits,-,보증금의 증가,제 7 기,,89809000.0,,제 6 기,11800000.0,,,제 5 기,294486000.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,dart_ProceedsFromSalesOfFairValueFinancialAsset,-,당기손익-공정가치금융자산의 감소,제 7 기,,6067298630.0,,제 6 기,11106372601.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,dart_ProceedsFromSalesOfShortTermFinancialInstruments,-,단기금융상품의 순감소,제 7 기,,0.0,,제 6 기,12000000000.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,dart_PurchaseOfFairValueFinancialAsset,-,당기손익-공정가치금융자산의 증가,제 7 기,,0.0,,제 6 기,17000000000.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,dart_PurchaseOfLongTermFinancialInstruments,-,장기금융상품의 증가,제 7 기,,23532.0,,제 6 기,25068.0,,,제 5 기,25068.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,dart_PurchaseOfShortTermFinancialInstruments,-,단기금융상품의 순증감,제 7 기,,8000000000.0,,제 6 기,0.0,,,제 5 기,14000000000.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 처분,제 7 기,,46364.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,-,무형자산의 취득,제 7 기,,474497634.0,,제 6 기,136442489.0,,,제 5 기,161175262.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 취득,제 7 기,,731094289.0,,제 6 기,782884369.0,,,제 5 기,1652458031.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,-,영업활동현금흐름,제 7 기,,-4352684474.0,,제 6 기,-5759284763.0,,,제 5 기,-3755517450.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,-,영업활동으로 인한 자산 부채의 변동,제 7 기,,-192069272.0,,제 6 기,-798353035.0,,,제 5 기,-60092522.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,ifrs-full_AdjustmentsForReconcileProfitLoss,-,조정,제 7 기,,4992610120.0,,제 6 기,1779989012.0,,,제 5 기,20490066949.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,-,법인세환급(납부),제 7 기,,2533190.0,,제 6 기,-1232600.0,,,제 5 기,286080.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,-,이자지금,제 7 기,,73747757.0,,제 6 기,51367262.0,,,제 5 기,99278745.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,-,이자수취,제 7 기,,162007186.0,,제 6 기,106523752.0,,,제 5 기,8116534.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,ifrs-full_ProfitLoss,-,당기순손실,제 7 기,,-9238951561.0,,제 6 기,-6797309830.0,,,제 5 기,-24094043586.0,20240328001733
+2023,11011,사업보고서,annual,OFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,-,현금및현금성자산의순증가(감소),제 7 기,,2092538559.0,,제 6 기,-1014273625.0,,,제 5 기,-2116336848.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_BonusIssue,자본 [구성요소]|기타자본구성요소 [구성요소],무상증자,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_BonusIssue,자본 [구성요소]|이익잉여금 [구성요소],무상증자,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_BonusIssue,자본 [구성요소]|자본금 [구성요소],무상증자,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,4137525000.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_BonusIssue,별도재무제표 [member],무상증자,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_BonusIssue,자본 [구성요소]|자본잉여금 [구성요소],무상증자,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,-4137525000.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_CompoundFinancialInstrumentConversion,별도재무제표 [member],전환상환우선주의 보통주 전환,제 7 기,,36755397344.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|기타자본구성요소 [구성요소],전환상환우선주의 보통주 전환,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|이익잉여금 [구성요소],전환상환우선주의 보통주 전환,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본금 [구성요소],전환상환우선주의 보통주 전환,제 7 기,,1677568000.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본잉여금 [구성요소],전환상환우선주의 보통주 전환,제 7 기,,35077829344.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본금 [구성요소],기초자본,제 7 기,,4419360000.0,,제 6 기,4413360000.0,,,제 5 기,208255000.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|이익잉여금 [구성요소],기초자본,제 7 기,,-39956626974.0,,제 6 기,-33247328790.0,,,제 5 기,-9044853904.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|기타자본구성요소 [구성요소],기초자본,제 7 기,,1596874342.0,,제 6 기,860882706.0,,,제 5 기,366470064.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_EquityAtBeginningOfPeriod,별도재무제표 [member],기초자본,제 7 기,,-19785449759.0,,제 6 기,-13863147566.0,,,제 5 기,-8074432840.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본잉여금 [구성요소],기초자본,제 7 기,,14154942873.0,,제 6 기,14109938518.0,,,제 5 기,395696000.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_ReclassificationAdjustments,자본 [구성요소]|자본금 [구성요소],순확정급여부채의 재측정요소,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_ReclassificationAdjustments,자본 [구성요소]|이익잉여금 [구성요소],순확정급여부채의 재측정요소,제 7 기,,-5110110.0,,제 6 기,88011646.0,,,제 5 기,-108431300.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_ReclassificationAdjustments,자본 [구성요소]|기타자본구성요소 [구성요소],순확정급여부채의 재측정요소,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_ReclassificationAdjustments,별도재무제표 [member],순확정급여부채의 재측정요소,제 7 기,,-5110110.0,,제 6 기,88011646.0,,,제 5 기,-108431300.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,dart_ReclassificationAdjustments,자본 [구성요소]|자본잉여금 [구성요소],순확정급여부채의 재측정요소,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,-표준계정코드 미사용-,별도재무제표 [member],유상증자,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,17919347518.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|기타자본구성요소 [구성요소],유상증자,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|이익잉여금 [구성요소],유상증자,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|자본금 [구성요소],유상증자,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,67580000.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|자본잉여금 [구성요소],유상증자,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,17851767518.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본금 [구성요소],자본총계,제 7 기,,6183488000.0,,제 6 기,4419360000.0,,,제 5 기,4413360000.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|이익잉여금 [구성요소],자본총계,제 7 기,,-49200688645.0,,제 6 기,-39956626974.0,,,제 5 기,-33247328790.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|기타자본구성요소 [구성요소],자본총계,제 7 기,,1810536386.0,,제 6 기,1596874342.0,,,제 5 기,860882706.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_Equity,별도재무제표 [member],자본총계,제 7 기,,8677896459.0,,제 6 기,-19785449759.0,,,제 5 기,-13863147566.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본잉여금 [구성요소],자본총계,제 7 기,,49884560718.0,,제 6 기,14154942873.0,,,제 5 기,14109938518.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|기타자본구성요소 [구성요소],주식보상비용,제 7 기,,865450545.0,,제 6 기,779360168.0,,,제 5 기,494412642.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,별도재무제표 [member],주식보상비용,제 7 기,,865450545.0,,제 6 기,779360168.0,,,제 5 기,494412642.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|이익잉여금 [구성요소],주식보상비용,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본금 [구성요소],주식보상비용,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본잉여금 [구성요소],주식보상비용,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|기타자본구성요소 [구성요소],주식선택권의 행사,제 7 기,,-651788501.0,,제 6 기,-43368532.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,별도재무제표 [member],주식선택권의 행사,제 7 기,,86560000.0,,제 6 기,7635823.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|이익잉여금 [구성요소],주식선택권의 행사,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|자본잉여금 [구성요소],주식선택권의 행사,제 7 기,,651788501.0,,제 6 기,45004355.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|자본금 [구성요소],주식선택권의 행사,제 7 기,,86560000.0,,제 6 기,6000000.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_ProfitLoss,별도재무제표 [member],당기순손실,제 7 기,,-9238951561.0,,제 6 기,-6797309830.0,,,제 5 기,-24094043586.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|기타자본구성요소 [구성요소],당기순손실,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본금 [구성요소],당기순손실,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|이익잉여금 [구성요소],당기순손실,제 7 기,,-9238951561.0,,제 6 기,-6797309830.0,,,제 5 기,-24094043586.0,20240328001733
+2023,11011,사업보고서,annual,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본잉여금 [구성요소],당기순손실,제 7 기,,0.0,,제 6 기,0.0,,,제 5 기,0.0,20240328001733
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_Assets,-,자산총계,제 8 기,,43876809146.0,,제 7 기,21318165682.0,,,제 6 기,16455476884.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentAssets,-,유동자산,제 8 기,,34310305670.0,,제 7 기,17187995497.0,,,제 6 기,12461943651.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_CashAndCashEquivalents,-,현금및현금성자산,제 8 기,,15063990553.0,,제 7 기,4161370525.0,,,제 6 기,2068831966.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentContractAssets,-,계약자산,제 8 기,,365497273.0,,제 7 기,321828382.0,,,제 6 기,193612727.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentTaxAssets,-,당기법인세자산,제 8 기,,142859500.0,,제 7 기,35306530.0,,,제 6 기,32773340.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_FinancialAssetsAtFairValueThroughProfitOrLoss,-,당기손익-공정가치측정금융자산,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,6053260272.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_Inventories,-,재고자산,제 8 기,,1084662073.0,,제 7 기,906965861.0,,,제 6 기,1233494802.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherCurrentAssets,-,기타유동자산,제 8 기,,303639305.0,,제 7 기,311207264.0,,,제 6 기,319781703.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherCurrentFinancialAssets,-,기타금융자산,제 8 기,,627897500.0,,제 7 기,442881935.0,,,제 6 기,125187841.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,-,단기금융상품,제 8 기,,16000000000.0,,제 7 기,10000000000.0,,,제 6 기,2000000000.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_TradeAndOtherCurrentReceivables,-,매출채권,제 8 기,,721759466.0,,제 7 기,1008435000.0,,,제 6 기,435001000.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentAssets,-,비유동자산,제 8 기,,9566503476.0,,제 7 기,4130170185.0,,,제 6 기,3993533233.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,dart_LongTermDepositsNotClassifiedAsCashEquivalents,-,장기금융상품,제 8 기,,0.0,,제 7 기,98736.0,,,제 6 기,75204.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,dart_LongTermLoansGross,-,장기대여금,제 8 기,,4271860000.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_IntangibleAssetsOtherThanGoodwill,-,무형자산,제 8 기,,1030565940.0,,제 7 기,681158490.0,,,제 6 기,300810496.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,-,당기손익-공정가치금융자산,제 8 기,,440056096.0,,제 7 기,100000.0,,,제 6 기,100000.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherNoncurrentFinancialAssets,-,기타금융자산,제 8 기,,312933905.0,,제 7 기,386390821.0,,,제 6 기,383067685.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_PropertyPlantAndEquipment,-,유형자산,제 8 기,,3511087535.0,,제 7 기,3062422138.0,,,제 6 기,3309479848.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,dart_CapitalSurplus,-,자본잉여금,제 8 기,,90006544929.0,,제 7 기,49884560718.0,,,제 6 기,14154942873.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,-,기타자본항목,제 8 기,,2293655493.0,,제 7 기,1810536386.0,,,제 6 기,1596874342.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_Equity,-,자본총계,제 8 기,,40328538886.0,,제 7 기,8677896459.0,,,제 6 기,-19785449759.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_IssuedCapital,-,자본금,제 8 기,,7495565500.0,,제 7 기,6183488000.0,,,제 6 기,4419360000.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_RetainedEarnings,-,결손금,제 8 기,,-59467227036.0,,제 7 기,-49200688645.0,,,제 6 기,-39956626974.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_EquityAndLiabilities,-,자본과부채총계,제 8 기,,43876809146.0,,제 7 기,21318165682.0,,,제 6 기,16455476884.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentLiabilities,-,유동부채,제 8 기,,1135442807.0,,제 7 기,11018322980.0,,,제 6 기,34708666827.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,dart_ConvertibleRedeemablePreferredStockLiabilitiesNet,-,전환상환우선주부채,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,8310238176.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,-표준계정코드 미사용-,-,전환우선주부채,제 8 기,,0.0,,제 7 기,9604804440.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentContractLiabilities,-,계약부채,제 8 기,,151347771.0,,제 7 기,181121691.0,,,제 6 기,192015436.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentLeaseLiabilities,-,리스부채,제 8 기,,364941224.0,,제 7 기,489494155.0,,,제 6 기,464332484.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_DerivativeFinancialLiabilities,-,파생상품부채,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,25070242412.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherCurrentFinancialLiabilities,-,기타금융부채,제 8 기,,166301203.0,,제 7 기,321260006.0,,,제 6 기,255833273.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherCurrentLiabilities,-,기타 유동부채,제 8 기,,396186742.0,,제 7 기,323030378.0,,,제 6 기,223247486.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_TradeAndOtherCurrentPayables,-,매입채무,제 8 기,,56665867.0,,제 7 기,98612310.0,,,제 6 기,192757560.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_Liabilities,-,부채총계,제 8 기,,3548270260.0,,제 7 기,12640269223.0,,,제 6 기,36240926643.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentLiabilities,-,비유동부채,제 8 기,,2412827453.0,,제 7 기,1621946243.0,,,제 6 기,1532259816.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,dart_PostemploymentBenefitObligations,-,순확정급여부채,제 8 기,,846117861.0,,제 7 기,319630356.0,,,제 6 기,250554736.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentLeaseLiabilities,-,리스부채,제 8 기,,202569213.0,,제 7 기,187354238.0,,,제 6 기,482828010.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentProvisions,-,충당부채,제 8 기,,802313180.0,,제 7 기,618141990.0,,,제 6 기,352943793.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentProvisionsForEmployeeBenefits,-,장기종업원급여부채,제 8 기,,57069359.0,,제 7 기,49161160.0,,,제 6 기,34307551.0,20250320000478
+2024,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,-,기타금융부채,제 8 기,,504757840.0,,제 7 기,447658499.0,,,제 6 기,411625726.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,dart_OperatingIncomeLoss,-,영업이익,제 8 기,,-10841824608.0,,제 7 기,-6496614879.0,,,제 6 기,-7101028909.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,dart_OtherGains,-,기타수익,제 8 기,,71281396.0,,제 7 기,1259382.0,,,제 6 기,874065164.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,dart_OtherLosses,-,기타비용,제 8 기,,199557655.0,,제 7 기,2856772149.0,,,제 6 기,51269454.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,-,판매비와관리비,제 8 기,,13351235711.0,,제 7 기,9263630852.0,,,제 6 기,8102769995.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,ifrs-full_ComprehensiveIncome,-,총포괄손익,제 8 기,,-10266538391.0,,제 7 기,-9244061671.0,,,제 6 기,-6709298184.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,ifrs-full_CostOfSales,-,매출원가,제 8 기,,1701542821.0,,제 7 기,2379170428.0,,,제 6 기,1182571276.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,ifrs-full_BasicEarningsLossPerShare,-,기본주당손실,제 8 기,,-687.0,,제 7 기,-886.0,,,제 6 기,-770.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,ifrs-full_DilutedEarningsLossPerShare,-,희석주당손실,제 8 기,,-687.0,,제 7 기,-886.0,,,제 6 기,-770.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,ifrs-full_FinanceCosts,-,금융비용,제 8 기,,76756294.0,,제 7 기,614246764.0,,,제 6 기,806602690.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,ifrs-full_FinanceIncome,-,금융수익,제 8 기,,1040889473.0,,제 7 기,727422849.0,,,제 6 기,287526059.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,ifrs-full_GrossProfit,-,매출총이익,제 8 기,,2509411103.0,,제 7 기,2767015973.0,,,제 6 기,1001741086.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,-,법인세비용,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,ifrs-full_OtherComprehensiveIncome,-,기타포괄손익,제 8 기,,-260570703.0,,제 7 기,-5110110.0,,,제 6 기,88011646.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,ifrs-full_ProfitLoss,-,당기순이익,제 8 기,,-10005967688.0,,제 7 기,-9238951561.0,,,제 6 기,-6797309830.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,ifrs-full_ProfitLossBeforeTax,-,법인세비용차감전순이익,제 8 기,,-10005967688.0,,제 7 기,-9238951561.0,,,제 6 기,-6797309830.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CIS,ifrs-full_Revenue,-,매출액,제 8 기,,4210953924.0,,제 7 기,5146186401.0,,,제 6 기,2184312362.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,-,기초현금및현금성자산,제 8 기,,4161370525.0,,제 7 기,2068831966.0,,,제 6 기,3083105591.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,-,기말현금및현금성자산,제 8 기,,15063990553.0,,제 7 기,4161370525.0,,,제 6 기,2068831966.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,-,재무활동현금흐름,제 8 기,,31053329298.0,,제 7 기,9645895494.0,,,제 6 기,-430209537.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,-,리스부채의 상환,제 8 기,,605660042.0,,제 7 기,440657446.0,,,제 6 기,437845360.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,dart_ProceedsFromExerciseOfShareOptions,-,주식선택권의 행사,제 8 기,,373821780.0,,제 7 기,86560000.0,,,제 6 기,7635823.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,ifrs-full_ProceedsFromIssueOfPreferenceShares,-,전환우선주의 발행,제 8 기,,0.0,,제 7 기,9999992940.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,ifrs-full_ProceedsFromIssuingShares,-,유상증자,제 8 기,,31285167560.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,-,투자활동현금흐름,제 8 기,,-12924374888.0,,제 7 기,-3200672461.0,,,제 6 기,5175220675.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,dart_DecreaseInGuaranteeDeposits,-,보증금의 감소,제 8 기,,178405000.0,,제 7 기,27407000.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,dart_IncreaseInGuaranteeDeposits,-,보증금의 증가,제 8 기,,275428000.0,,제 7 기,89809000.0,,,제 6 기,11800000.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,dart_ProceedsFromSalesOfFairValueFinancialAsset,-,당기손익-공정가치금융자산의 감소,제 8 기,,0.0,,제 7 기,6067298630.0,,,제 6 기,11106372601.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,dart_ProceedsFromSalesOfLongTermFinancialInstruments,-,장기금융상품의 감소,제 8 기,,98736.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities,-,비상장주식-공정가치측정금융자산의 증가,제 8 기,,439956096.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,dart_PurchaseOfLongTermFinancialInstruments,-,장기금융상품의 증가,제 8 기,,0.0,,제 7 기,23532.0,,,제 6 기,25068.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,dart_PurchaseOfLongTermLoansAndReceivables,-,장기대여금의 증가,제 8 기,,4271860000.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,dart_PurchaseOfShortTermFinancialInstruments,-,단기금융상품의 순증감,제 8 기,,6000000000.0,,제 7 기,8000000000.0,,,제 6 기,5000000000.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 처분,제 8 기,,0.0,,제 7 기,46364.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,-,무형자산의 취득,제 8 기,,577247890.0,,제 7 기,474497634.0,,,제 6 기,136442489.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 취득,제 8 기,,1538386638.0,,제 7 기,731094289.0,,,제 6 기,782884369.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,-,영업활동현금흐름,제 8 기,,-7226334382.0,,제 7 기,-4352684474.0,,,제 6 기,-5759284763.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,-,영업활동으로 인한 자산 부채의 변동,제 8 기,,-256780774.0,,제 7 기,-192069272.0,,,제 6 기,-798353035.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,ifrs-full_AdjustmentsForReconcileProfitLoss,-,조정,제 8 기,,2300414665.0,,제 7 기,4992610120.0,,,제 6 기,1779989012.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,-,법인세납부,제 8 기,,107552970.0,,제 7 기,2533190.0,,,제 6 기,-1232600.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,-,이자지급,제 8 기,,74110733.0,,제 7 기,73747757.0,,,제 6 기,51367262.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,-,이자수취,제 8 기,,917663118.0,,제 7 기,162007186.0,,,제 6 기,106523752.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,ifrs-full_ProfitLoss,-,당기순이익,제 8 기,,-10005967688.0,,제 7 기,-9238951561.0,,,제 6 기,-6797309830.0,20250320000478
+2024,11011,사업보고서,annual,OFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,-,현금및현금성자산의순증가(감소),제 8 기,,10902620028.0,,제 7 기,2092538559.0,,,제 6 기,-1014273625.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본금 [구성요소],전환우선주의 보통주 전환,제 8 기,,465202500.0,,제 7 기,1677568000.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|이익잉여금 [구성요소],전환우선주의 보통주 전환,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|기타자본구성요소 [구성요소],전환우선주의 보통주 전환,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본잉여금 [구성요소],전환우선주의 보통주 전환,제 8 기,,9139021700.0,,제 7 기,35077829344.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,dart_CompoundFinancialInstrumentConversion,별도재무제표 [member],전환우선주의 보통주 전환,제 8 기,,9604224200.0,,제 7 기,36755397344.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|이익잉여금 [구성요소],기초자본,제 8 기,,-49200688645.0,,제 7 기,-39956626974.0,,,제 6 기,-33247328790.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|기타자본구성요소 [구성요소],기초자본,제 8 기,,1810536386.0,,제 7 기,1596874342.0,,,제 6 기,860882706.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,dart_EquityAtBeginningOfPeriod,별도재무제표 [member],기초자본,제 8 기,,8677896459.0,,제 7 기,-19785449759.0,,,제 6 기,-13863147566.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본금 [구성요소],기초자본,제 8 기,,6183488000.0,,제 7 기,4419360000.0,,,제 6 기,4413360000.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본잉여금 [구성요소],기초자본,제 8 기,,49884560718.0,,제 7 기,14154942873.0,,,제 6 기,14109938518.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본금 [구성요소],자본총계,제 8 기,,7495565500.0,,제 7 기,6183488000.0,,,제 6 기,4419360000.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|이익잉여금 [구성요소],자본총계,제 8 기,,-59467227036.0,,제 7 기,-49200688645.0,,,제 6 기,-39956626974.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|기타자본구성요소 [구성요소],자본총계,제 8 기,,2293655493.0,,제 7 기,1810536386.0,,,제 6 기,1596874342.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_Equity,별도재무제표 [member],자본총계,제 8 기,,40328538886.0,,제 7 기,8677896459.0,,,제 6 기,-19785449759.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본잉여금 [구성요소],자본총계,제 8 기,,90006544929.0,,제 7 기,49884560718.0,,,제 6 기,14154942873.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_GainLossOnRemeasurementOfNetDefinedBenefitLiabilityAsset,별도재무제표 [member],순확정급여부채의 재측정요소,제 8 기,,260570703.0,,제 7 기,5110110.0,,,제 6 기,-88011646.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_GainLossOnRemeasurementOfNetDefinedBenefitLiabilityAsset,자본 [구성요소]|기타자본구성요소 [구성요소],순확정급여부채의 재측정요소,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_GainLossOnRemeasurementOfNetDefinedBenefitLiabilityAsset,자본 [구성요소]|이익잉여금 [구성요소],순확정급여부채의 재측정요소,제 8 기,,260570703.0,,제 7 기,5110110.0,,,제 6 기,-88011646.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_GainLossOnRemeasurementOfNetDefinedBenefitLiabilityAsset,자본 [구성요소]|자본금 [구성요소],순확정급여부채의 재측정요소,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_GainLossOnRemeasurementOfNetDefinedBenefitLiabilityAsset,자본 [구성요소]|자본잉여금 [구성요소],순확정급여부채의 재측정요소,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본금 [구성요소],주식보상비용,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|이익잉여금 [구성요소],주식보상비용,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|기타자본구성요소 [구성요소],주식보상비용,제 8 기,,653387038.0,,제 7 기,865450545.0,,,제 6 기,779360168.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,별도재무제표 [member],주식보상비용,제 8 기,,653387038.0,,제 7 기,865450545.0,,,제 6 기,779360168.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본잉여금 [구성요소],주식보상비용,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|기타자본구성요소 [구성요소],주식선택권의 행사,제 8 기,,-170267931.0,,제 7 기,-651788501.0,,,제 6 기,-43368532.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,별도재무제표 [member],주식선택권의 행사,제 8 기,,373821780.0,,제 7 기,86560000.0,,,제 6 기,7635823.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|이익잉여금 [구성요소],주식선택권의 행사,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|자본금 [구성요소],주식선택권의 행사,제 8 기,,22875000.0,,제 7 기,86560000.0,,,제 6 기,6000000.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|자본잉여금 [구성요소],주식선택권의 행사,제 8 기,,521214711.0,,제 7 기,651788501.0,,,제 6 기,45004355.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|기타자본구성요소 [구성요소],유상증자,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_IssueOfEquity,별도재무제표 [member],유상증자,제 8 기,,31285747800.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|이익잉여금 [구성요소],유상증자,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|자본잉여금 [구성요소],유상증자,제 8 기,,30461747800.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|자본금 [구성요소],유상증자,제 8 기,,824000000.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_ProfitLoss,별도재무제표 [member],당기순이익,제 8 기,,-10005967688.0,,제 7 기,-9238951561.0,,,제 6 기,-6797309830.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|기타자본구성요소 [구성요소],당기순이익,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본금 [구성요소],당기순이익,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|이익잉여금 [구성요소],당기순이익,제 8 기,,-10005967688.0,,제 7 기,-9238951561.0,,,제 6 기,-6797309830.0,20250320000478
+2024,11011,사업보고서,annual,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본잉여금 [구성요소],당기순이익,제 8 기,,0.0,,제 7 기,0.0,,,제 6 기,0.0,20250320000478
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_Assets,-,자산총계,제 8 기 반기말,,48860023663.0,,제 7 기말,21318165682.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentAssets,-,유동자산,제 8 기 반기말,,38851317404.0,,제 7 기말,17187995497.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_CashAndCashEquivalents,-,현금및현금성자산,제 8 기 반기말,,4203440167.0,,제 7 기말,4161370525.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentContractAssets,-,계약자산,제 8 기 반기말,,1249316860.0,,제 7 기말,321828382.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentTaxAssets,-,당기법인세자산,제 8 기 반기말,,40862800.0,,제 7 기말,35306530.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_Inventories,-,재고자산,제 8 기 반기말,,893243356.0,,제 7 기말,906965861.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherCurrentAssets,-,기타유동자산,제 8 기 반기말,,754529564.0,,제 7 기말,311207264.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherCurrentFinancialAssets,-,기타금융자산,제 8 기 반기말,,891853991.0,,제 7 기말,442881935.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,-,단기금융상품,제 8 기 반기말,,30000000000.0,,제 7 기말,10000000000.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_TradeAndOtherCurrentReceivables,-,매출채권,제 8 기 반기말,,818070666.0,,제 7 기말,1008435000.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentAssets,-,비유동자산,제 8 기 반기말,,10008706259.0,,제 7 기말,4130170185.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,dart_LongTermDepositsNotClassifiedAsCashEquivalents,-,장기금융상품,제 8 기 반기말,,0.0,,제 7 기말,98736.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,dart_LongTermLoansGross,-,장기대여금,제 8 기 반기말,,4617860000.0,,제 7 기말,0.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_IntangibleAssetsOtherThanGoodwill,-,무형자산,제 8 기 반기말,,983763331.0,,제 7 기말,681158490.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,-,당기손익-공정가치금융자산,제 8 기 반기말,,100000.0,,제 7 기말,100000.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherNoncurrentFinancialAssets,-,기타금융자산,제 8 기 반기말,,298850192.0,,제 7 기말,386390821.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_PropertyPlantAndEquipment,-,유형자산,제 8 기 반기말,,4108132736.0,,제 7 기말,3062422138.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,dart_CapitalSurplus,-,자본잉여금,제 8 기 반기말,,89485330218.0,,제 7 기말,49884560718.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,-,기타자본항목,제 8 기 반기말,,2185482987.0,,제 7 기말,1810536386.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_Equity,-,자본총계,제 8 기 반기말,,45454577972.0,,제 7 기말,8677896459.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_IssuedCapital,-,자본금,제 8 기 반기말,,7472690500.0,,제 7 기말,6183488000.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_RetainedEarnings,-,결손금,제 8 기 반기말,,-53688925733.0,,제 7 기말,-49200688645.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_EquityAndLiabilities,-,자본과부채총계,제 8 기 반기말,,48860023663.0,,제 7 기말,21318165682.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentLiabilities,-,유동부채,제 8 기 반기말,,1728132300.0,,제 7 기말,11018322980.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,-표준계정코드 미사용-,-,전환우선주부채,제 8 기 반기말,,0.0,,제 7 기말,9604804440.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentContractLiabilities,-,계약부채,제 8 기 반기말,,111036043.0,,제 7 기말,181121691.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentLeaseLiabilities,-,리스부채,제 8 기 반기말,,576636437.0,,제 7 기말,489494155.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherCurrentFinancialLiabilities,-,기타금융부채,제 8 기 반기말,,501551742.0,,제 7 기말,321260006.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherCurrentLiabilities,-,기타 유동부채,제 8 기 반기말,,307422667.0,,제 7 기말,323030378.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_TradeAndOtherCurrentPayables,-,매입채무,제 8 기 반기말,,231485411.0,,제 7 기말,98612310.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_Liabilities,-,부채총계,제 8 기 반기말,,3405445691.0,,제 7 기말,12640269223.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentLiabilities,-,비유동부채,제 8 기 반기말,,1677313391.0,,제 7 기말,1621946243.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,dart_PostemploymentBenefitObligations,-,순확정급여부채,제 8 기 반기말,,214226499.0,,제 7 기말,319630356.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,-표준계정코드 미사용-,-,장기종업원급여부채,제 8 기 반기말,,61949740.0,,제 7 기말,49161160.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentLeaseLiabilities,-,리스부채,제 8 기 반기말,,257151700.0,,제 7 기말,187354238.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentProvisions,-,충당부채,제 8 기 반기말,,710833306.0,,제 7 기말,618141990.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,-,기타금융부채,제 8 기 반기말,,433152146.0,,제 7 기말,447658499.0,,,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,dart_OperatingIncomeLoss,-,영업손실,제 8 기 반기,,-2624876629.0,-4915412409.0,,,제 7 기 반기,-1535708999.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,dart_OtherGains,-,기타수익,제 8 기 반기,,45060121.0,45456940.0,,,제 7 기 반기,897.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,dart_OtherLosses,-,기타비용,제 8 기 반기,,21206202.0,37096367.0,,,제 7 기 반기,10206862.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,-,판매비와관리비,제 8 기 반기,,3524421738.0,6457451714.0,,,제 7 기 반기,2341322665.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,ifrs-full_ComprehensiveIncome,-,총포괄손익,제 8 기 반기,,-2271316778.0,-4488237088.0,,,제 7 기 반기,-1713824782.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,ifrs-full_CostOfSales,-,매출원가,제 8 기 반기,,485645744.0,874863715.0,,,제 7 기 반기,806867435.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,ifrs-full_BasicEarningsLossPerShare,-,기본주당손실,제 8 기 반기,,-151.0,-317.0,,,제 7 기 반기,-193.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,ifrs-full_DilutedEarningsLossPerShare,-,희석주당손실,제 8 기 반기,,-151.0,-317.0,,,제 7 기 반기,-193.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,ifrs-full_FinanceCosts,-,금융비용,제 8 기 반기,,23060826.0,41208072.0,,,제 7 기 반기,226078389.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,ifrs-full_FinanceIncome,-,금융수익,제 8 기 반기,,352766758.0,460022820.0,,,제 7 기 반기,58168571.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,ifrs-full_GrossProfit,-,매출총이익,제 8 기 반기,,899545109.0,1542039305.0,,,제 7 기 반기,805613666.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,-,법인세비용,제 8 기 반기,,0.0,0.0,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,ifrs-full_OtherComprehensiveIncome,-,기타포괄손익,제 8 기 반기,,0.0,0.0,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,ifrs-full_ProfitLoss,-,당기순손실,제 8 기 반기,,-2271316778.0,-4488237088.0,,,제 7 기 반기,-1713824782.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,ifrs-full_ProfitLossBeforeTax,-,법인세비용차감전순손실,제 8 기 반기,,-2271316778.0,-4488237088.0,,,제 7 기 반기,-1713824782.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CIS,ifrs-full_Revenue,-,매출액,제 8 기 반기,,1385190853.0,2416903020.0,,,제 7 기 반기,1612481101.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,-,기초현금및현금성자산,제 8 기 반기,,4161370525.0,,,,제 7 기 반기,2068831966.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,-,기말현금및현금성자산,제 8 기 반기,,4203440167.0,,,,제 7 기 반기,2545705889.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,-,재무활동현금흐름,제 8 기 반기,,30986223098.0,,,,제 7 기 반기,-126532221.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,-,리스부채의 상환,제 8 기 반기,,298944462.0,,,,제 7 기 반기,213092221.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,dart_ProceedsFromExerciseOfShareOptions,-,주식선택권의 행사,제 8 기 반기,,0.0,,,,제 7 기 반기,86560000.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,ifrs-full_ProceedsFromIssuingShares,-,유상증자,제 8 기 반기,,31285167560.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,-,투자활동현금흐름,제 8 기 반기,,-26466138613.0,,,,제 7 기 반기,3404893104.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,dart_DecreaseInGuaranteeDeposits,-,보증금의 감소,제 8 기 반기,,46940000.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,dart_IncreaseInGuaranteeDeposits,-,보증금의 증가,제 8 기 반기,,275428000.0,,,,제 7 기 반기,3542000.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,dart_ProceedsFromSalesOfFairValueFinancialAsset,-,당기손익-공정가치금융자산의 감소,제 8 기 반기,,0.0,,,,제 7 기 반기,2087517808.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,dart_ProceedsFromSalesOfLongTermFinancialInstruments,-,장기금융상품의 감소,제 8 기 반기,,98736.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,dart_ProceedsFromSalesOfShortTermFinancialInstruments,-,단기금융상품의 감소,제 8 기 반기,,0.0,,,,제 7 기 반기,2000000000.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,dart_PurchaseOfLongTermFinancialInstruments,-,장기금융상품의 증가,제 8 기 반기,,0.0,,,,제 7 기 반기,11766.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,dart_PurchaseOfLongTermLoansAndReceivables,-,장기대여금의 증가,제 8 기 반기,,4617860000.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,dart_PurchaseOfShortTermFinancialInstruments,-,단기금융상품의 증가,제 8 기 반기,,20000000000.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 처분,제 8 기 반기,,227057.0,,,,제 7 기 반기,104342.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,-,무형자산의 취득,제 8 기 반기,,396379597.0,,,,제 7 기 반기,54000000.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 취득,제 8 기 반기,,1223736809.0,,,,제 7 기 반기,625175280.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,-,영업활동현금흐름,제 8 기 반기,,-4478014843.0,,,,제 7 기 반기,-2801486960.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,-,영업활동으로 인한 자산 부채의 변동,제 8 기 반기,,-1123668831.0,,,,제 7 기 반기,-559625757.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,ifrs-full_AdjustmentsForReconcileProfitLoss,-,조정,제 8 기 반기,,915853759.0,,,,제 7 기 반기,1383336707.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,-,법인세환급(납부),제 8 기 반기,,5556270.0,,,,제 7 기 반기,-14446040.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,-,이자지급,제 8 기 반기,,39914473.0,,,,제 7 기 반기,39656828.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,-,이자수취,제 8 기 반기,,263508060.0,,,,제 7 기 반기,31512650.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,ifrs-full_ProfitLoss,-,당기순손실,제 8 기 반기,,-2271316778.0,,,,제 7 기 반기,-1713824782.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,-,현금및현금성자산의순증가(감소),제 8 기 반기,,42069642.0,,,,제 7 기 반기,476873923.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,dart_CompoundFinancialInstrumentConversion,별도재무제표 [member],전환상환우선주의 보통주 전환,제 8 기 반기,,9604224200.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|기타자본구성요소 [구성요소],전환상환우선주의 보통주 전환,제 8 기 반기,,0.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|이익잉여금 [구성요소],전환상환우선주의 보통주 전환,제 8 기 반기,,0.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본금 [구성요소],전환상환우선주의 보통주 전환,제 8 기 반기,,465202500.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본잉여금 [구성요소],전환상환우선주의 보통주 전환,제 8 기 반기,,9139021700.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|이익잉여금 [구성요소],기초자본,제 8 기 반기,,-49200688645.0,,,,제 7 기 반기,-39956626974.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|기타자본구성요소 [구성요소],기초자본,제 8 기 반기,,1810536386.0,,,,제 7 기 반기,1596874342.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,dart_EquityAtBeginningOfPeriod,별도재무제표 [member],기초자본,제 8 기 반기,,8677896459.0,,,,제 7 기 반기,-19785449759.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본금 [구성요소],기초자본,제 8 기 반기,,6183488000.0,,,,제 7 기 반기,4419360000.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본잉여금 [구성요소],기초자본,제 8 기 반기,,49884560718.0,,,,제 7 기 반기,14154942873.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|기타자본구성요소 [구성요소],유상증자,제 8 기 반기,,0.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,-표준계정코드 미사용-,별도재무제표 [member],유상증자,제 8 기 반기,,31285747800.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|이익잉여금 [구성요소],유상증자,제 8 기 반기,,0.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|자본금 [구성요소],유상증자,제 8 기 반기,,824000000.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|자본잉여금 [구성요소],유상증자,제 8 기 반기,,30461747800.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_Equity,별도재무제표 [member],자본총계,제 8 기 반기,,45454577972.0,,,8677896459.0,제 7 기 반기,-22920333408.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|기타자본구성요소 [구성요소],자본총계,제 8 기 반기,,2185482987.0,,,,제 7 기 반기,1355141964.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|이익잉여금 [구성요소],자본총계,제 8 기 반기,,-53688925733.0,,,,제 7 기 반기,-43588126746.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본금 [구성요소],자본총계,제 8 기 반기,,7472690500.0,,,,제 7 기 반기,4505920000.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본잉여금 [구성요소],자본총계,제 8 기 반기,,89485330218.0,,,,제 7 기 반기,14806731374.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|기타자본구성요소 [구성요소],주식보상비용,제 8 기 반기,,374946601.0,,,,제 7 기 반기,410056123.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,별도재무제표 [member],주식보상비용,제 8 기 반기,,374946601.0,,,,제 7 기 반기,410056123.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|이익잉여금 [구성요소],주식보상비용,제 8 기 반기,,0.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본잉여금 [구성요소],주식보상비용,제 8 기 반기,,0.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본금 [구성요소],주식보상비용,제 8 기 반기,,0.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,별도재무제표 [member],주식선택권의 행사,제 8 기 반기,,0.0,,,,제 7 기 반기,86560000.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|기타자본구성요소 [구성요소],주식선택권의 행사,제 8 기 반기,,0.0,,,,제 7 기 반기,-651788501.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|이익잉여금 [구성요소],주식선택권의 행사,제 8 기 반기,,0.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|자본금 [구성요소],주식선택권의 행사,제 8 기 반기,,0.0,,,,제 7 기 반기,86560000.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|자본잉여금 [구성요소],주식선택권의 행사,제 8 기 반기,,0.0,,,,제 7 기 반기,651788501.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_ProfitLoss,별도재무제표 [member],당기순손실,제 8 기 반기,,-2271316778.0,,,,제 7 기 반기,-1713824782.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|기타자본구성요소 [구성요소],당기순손실,제 8 기 반기,,0.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본금 [구성요소],당기순손실,제 8 기 반기,,0.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|이익잉여금 [구성요소],당기순손실,제 8 기 반기,,-4488237088.0,,,,제 7 기 반기,-3631499772.0,,,20240814001740
+2024,11012,반기보고서,half_year,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본잉여금 [구성요소],당기순손실,제 8 기 반기,,0.0,,,,제 7 기 반기,0.0,,,20240814001740
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_Assets,-,자산총계,제 8 기 1분기말,,50759537417.0,,제 7 기말,21318165682.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentAssets,-,유동자산,제 8 기 1분기말,,41192514817.0,,제 7 기말,17187995497.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CashAndCashEquivalents,-,현금및현금성자산,제 8 기 1분기말,,3577933211.0,,제 7 기말,4161370525.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentContractAssets,-,계약자산,제 8 기 1분기말,,801960140.0,,제 7 기말,321828382.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentTaxAssets,-,당기법인세자산,제 8 기 1분기말,,66754470.0,,제 7 기말,35306530.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_Inventories,-,재고자산,제 8 기 1분기말,,1008828453.0,,제 7 기말,906965861.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentAssets,-,기타유동자산,제 8 기 1분기말,,561326729.0,,제 7 기말,311207264.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentFinancialAssets,-,기타금융자산,제 8 기 1분기말,,342706879.0,,제 7 기말,442881935.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,-,단기금융상품,제 8 기 1분기말,,34500000000.0,,제 7 기말,10000000000.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_TradeAndOtherCurrentReceivables,-,매출채권,제 8 기 1분기말,,333004935.0,,제 7 기말,1008435000.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentAssets,-,비유동자산,제 8 기 1분기말,,9567022600.0,,제 7 기말,4130170185.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,dart_LongTermDepositsNotClassifiedAsCashEquivalents,-,장기금융상품,제 8 기 1분기말,,104619.0,,제 7 기말,98736.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,-,장기대여금,제 8 기 1분기말,,4937860000.0,,제 7 기말,0.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_IntangibleAssetsOtherThanGoodwill,-,무형자산,제 8 기 1분기말,,818770467.0,,제 7 기말,681158490.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,-,당기손익-공정가치금융자산,제 8 기 1분기말,,100000.0,,제 7 기말,100000.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherNoncurrentFinancialAssets,-,기타금융자산,제 8 기 1분기말,,620429178.0,,제 7 기말,386390821.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_PropertyPlantAndEquipment,-,유형자산,제 8 기 1분기말,,3189758336.0,,제 7 기말,3062422138.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,dart_CapitalSurplus,-,자본잉여금,제 8 기 1분기말,,83362400243.0,,제 7 기말,49884560718.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,-,기타자본항목,제 8 기 1분기말,,2032439652.0,,제 7 기말,1810536386.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_Equity,-,자본총계,제 8 기 1분기말,,41138236940.0,,제 7 기말,8677896459.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_IssuedCapital,-,자본금,제 8 기 1분기말,,7161006000.0,,제 7 기말,6183488000.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_RetainedEarnings,-,결손금,제 8 기 1분기말,,-51417608955.0,,제 7 기말,-49200688645.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_EquityAndLiabilities,-,자본과부채총계,제 8 기 1분기말,,50759537417.0,,제 7 기말,21318165682.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentLiabilities,-,유동부채,제 8 기 1분기말,,7832222051.0,,제 7 기말,11018322980.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,-표준계정코드 미사용-,-,전환우선주부채,제 8 기 1분기말,,6435194715.0,,제 7 기말,9604804440.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentContractLiabilities,-,계약부채,제 8 기 1분기말,,100923951.0,,제 7 기말,181121691.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentLeaseLiabilities,-,리스부채,제 8 기 1분기말,,595462201.0,,제 7 기말,489494155.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentFinancialLiabilities,-,기타금융부채,제 8 기 1분기말,,302706208.0,,제 7 기말,321260006.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentLiabilities,-,기타 유동부채,제 8 기 1분기말,,312082286.0,,제 7 기말,323030378.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_TradeAndOtherCurrentPayables,-,매입채무,제 8 기 1분기말,,85852690.0,,제 7 기말,98612310.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_Liabilities,-,부채총계,제 8 기 1분기말,,9621300477.0,,제 7 기말,12640269223.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentLiabilities,-,비유동부채,제 8 기 1분기말,,1789078426.0,,제 7 기말,1621946243.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,dart_PostemploymentBenefitObligations,-,순확정급여부채,제 8 기 1분기말,,337853295.0,,제 7 기말,319630356.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,-표준계정코드 미사용-,-,장기종업원급여부채,제 8 기 1분기말,,55555450.0,,제 7 기말,49161160.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentLeaseLiabilities,-,리스부채,제 8 기 1분기말,,298058657.0,,제 7 기말,187354238.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentProvisions,-,충당부채,제 8 기 1분기말,,625227532.0,,제 7 기말,618141990.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,-,기타금융부채,제 8 기 1분기말,,472383492.0,,제 7 기말,447658499.0,,,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,dart_OperatingIncomeLoss,-,영업손실,제 8 기 1분기,,-2290535780.0,-2290535780.0,,,제 7 기 1분기,-1759912914.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,dart_OtherGains,-,기타수익,제 8 기 1분기,,396819.0,396819.0,,,제 7 기 1분기,37759.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,dart_OtherLosses,-,기타비용,제 8 기 1분기,,15890165.0,15890165.0,,,제 7 기 1분기,10256776.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,-,판매비와관리비,제 8 기 1분기,,2933029976.0,2933029976.0,,,제 7 기 1분기,2337850958.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_ComprehensiveIncome,-,총포괄손익,제 8 기 1분기,,-2216920310.0,-2216920310.0,,,제 7 기 1분기,-1917674990.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_CostOfSales,-,매출원가,제 8 기 1분기,,389217971.0,389217971.0,,,제 7 기 1분기,454784202.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_BasicEarningsLossPerShare,-,기본주당손실,제 8 기 1분기,,-165.0,-165.0,,,제 7 기 1분기,-217.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_DilutedEarningsLossPerShare,-,희석주당손실,제 8 기 1분기,,-165.0,-165.0,,,제 7 기 1분기,-217.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_FinanceCosts,-,금융비용,제 8 기 1분기,,18147246.0,18147246.0,,,제 7 기 1분기,225575299.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_FinanceIncome,-,금융수익,제 8 기 1분기,,107256062.0,107256062.0,,,제 7 기 1분기,78032240.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_GrossProfit,-,매출총이익,제 8 기 1분기,,642494196.0,642494196.0,,,제 7 기 1분기,577938044.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,-,법인세비용,제 8 기 1분기,,0.0,0.0,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_OtherComprehensiveIncome,-,기타포괄손익,제 8 기 1분기,,0.0,0.0,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_ProfitLoss,-,당기순손실,제 8 기 1분기,,-2216920310.0,-2216920310.0,,,제 7 기 1분기,-1917674990.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_ProfitLossBeforeTax,-,법인세비용차감전순손실,제 8 기 1분기,,-2216920310.0,-2216920310.0,,,제 7 기 1분기,-1917674990.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_Revenue,-,매출액,제 8 기 1분기,,1031712167.0,1031712167.0,,,제 7 기 1분기,1032722246.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,-,기초현금및현금성자산,제 8 기 1분기,,4161370525.0,,,,제 7 기 1분기,2068831966.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,-,기말현금및현금성자산,제 8 기 1분기,,3577933211.0,,,,제 7 기 1분기,2024964154.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,-,재무활동현금흐름,제 8 기 1분기,,31155851097.0,,,,제 7 기 1분기,-98517428.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,-,금융리스부채의 상환,제 8 기 1분기,,129896703.0,,,,제 7 기 1분기,104517428.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,dart_ProceedsFromExerciseOfShareOptions,-,주식선택권의 행사,제 8 기 1분기,,0.0,,,,제 7 기 1분기,6000000.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_ProceedsFromIssuingShares,-,유상증자,제 8 기 1분기,,31285747800.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,-,투자활동현금흐름,제 8 기 1분기,,-29919692622.0,,,,제 7 기 1분기,1694252957.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,dart_DecreaseInGuaranteeDeposits,-,보증금의 감소,제 8 기 1분기,,2948000.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,dart_IncreaseInGuaranteeDeposits,-,보증금의 증가,제 8 기 1분기,,259288000.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,dart_ProceedsFromSalesOfFairValueFinancialAsset,-,당기손익-공정가치금융자산의 감소,제 8 기 1분기,,0.0,,,,제 7 기 1분기,1067298630.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,dart_ProceedsFromSalesOfShortTermFinancialInstruments,-,단기금융상품의 순감소,제 8 기 1분기,,0.0,,,,제 7 기 1분기,1000000000.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,dart_PurchaseOfLongTermFinancialInstruments,-,장기금융상품의 증가,제 8 기 1분기,,5883.0,,,,제 7 기 1분기,5883.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,dart_PurchaseOfLongTermLoansAndReceivables,-,장기대여금의 증가,제 8 기 1분기,,4937860000.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,dart_PurchaseOfShortTermFinancialInstruments,-,단기금융상품의 순증감,제 8 기 1분기,,24500000000.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,-,무형자산의 취득,제 8 기 1분기,,177604597.0,,,,제 7 기 1분기,14000000.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 취득,제 8 기 1분기,,47882142.0,,,,제 7 기 1분기,359039790.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,-,영업활동현금흐름,제 8 기 1분기,,-1819595789.0,,,,제 7 기 1분기,-1639603341.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,-,영업활동으로 인한 자산 부채의 변동,제 8 기 1분기,,-291995139.0,,,,제 7 기 1분기,-396140846.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_AdjustmentsForReconcileProfitLoss,-,조정,제 8 기 1분기,,534219361.0,,,,제 7 기 1분기,654141231.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,-,법인세환급(납부),제 8 기 1분기,,31447940.0,,,,제 7 기 1분기,-19066880.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,-,이자지급,제 8 기 1분기,,17658679.0,,,,제 7 기 1분기,20713911.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,-,이자수취,제 8 기 1분기,,204206918.0,,,,제 7 기 1분기,21718295.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_ProfitLoss,-,당기순손실,제 8 기 1분기,,-2216920310.0,,,,제 7 기 1분기,-1917674990.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,-,현금및현금성자산의순증가(감소),제 8 기 1분기,,-583437314.0,,,,제 7 기 1분기,-43867812.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,별도재무제표 [member],전환우선주의 보통주 전환,제 8 기 1분기,,3169609725.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|기타자본구성요소 [구성요소],전환우선주의 보통주 전환,제 8 기 1분기,,0.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|이익잉여금 [구성요소],전환우선주의 보통주 전환,제 8 기 1분기,,0.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본금 [구성요소],전환우선주의 보통주 전환,제 8 기 1분기,,153518000.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본잉여금 [구성요소],전환우선주의 보통주 전환,제 8 기 1분기,,3016091725.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본금 [구성요소],기초자본,제 8 기 1분기,,6183488000.0,,,,제 7 기 1분기,4419360000.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|이익잉여금 [구성요소],기초자본,제 8 기 1분기,,49200688645.0,,,,제 7 기 1분기,39956626974.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|기타자본구성요소 [구성요소],기초자본,제 8 기 1분기,,1810536386.0,,,,제 7 기 1분기,1596874342.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,별도재무제표 [member],기초자본,제 8 기 1분기,,8677896459.0,,,,제 7 기 1분기,19785449759.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본잉여금 [구성요소],기초자본,제 8 기 1분기,,49884560718.0,,,,제 7 기 1분기,14154942873.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|기타자본구성요소 [구성요소],유상증자,제 8 기 1분기,,0.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,-표준계정코드 미사용-,별도재무제표 [member],유상증자,제 8 기 1분기,,31285747800.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|이익잉여금 [구성요소],유상증자,제 8 기 1분기,,0.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|자본금 [구성요소],유상증자,제 8 기 1분기,,824000000.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|자본잉여금 [구성요소],유상증자,제 8 기 1분기,,30461747800.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,별도재무제표 [member],자본총계,제 8 기 1분기,,41138236940.0,,,8677896459.0,제 7 기 1분기,21514108977.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|기타자본구성요소 [구성요소],자본총계,제 8 기 1분기,,2032439652.0,,,,제 7 기 1분기,1734724760.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|이익잉여금 [구성요소],자본총계,제 8 기 1분기,,51417608955.0,,,,제 7 기 1분기,41874301964.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본금 [구성요소],자본총계,제 8 기 1분기,,7161006000.0,,,,제 7 기 1분기,4425360000.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본잉여금 [구성요소],자본총계,제 8 기 1분기,,83362400243.0,,,,제 7 기 1분기,14200108227.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|기타자본구성요소 [구성요소],주식보상비용,제 8 기 1분기,,221903266.0,,,,제 7 기 1분기,183015772.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,별도재무제표 [member],주식보상비용,제 8 기 1분기,,221903266.0,,,,제 7 기 1분기,183015772.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|이익잉여금 [구성요소],주식보상비용,제 8 기 1분기,,0.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본잉여금 [구성요소],주식보상비용,제 8 기 1분기,,0.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본금 [구성요소],주식보상비용,제 8 기 1분기,,0.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,별도재무제표 [member],주식선택권의 행사,제 8 기 1분기,,0.0,,,,제 7 기 1분기,6000000.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|기타자본구성요소 [구성요소],주식선택권의 행사,제 8 기 1분기,,0.0,,,,제 7 기 1분기,45165354.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|이익잉여금 [구성요소],주식선택권의 행사,제 8 기 1분기,,0.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|자본금 [구성요소],주식선택권의 행사,제 8 기 1분기,,0.0,,,,제 7 기 1분기,6000000.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|자본잉여금 [구성요소],주식선택권의 행사,제 8 기 1분기,,0.0,,,,제 7 기 1분기,45165354.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,별도재무제표 [member],당기순손실,제 8 기 1분기,,-2216920310.0,,,,제 7 기 1분기,-1917674990.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|기타자본구성요소 [구성요소],당기순손실,제 8 기 1분기,,0.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본금 [구성요소],당기순손실,제 8 기 1분기,,0.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|이익잉여금 [구성요소],당기순손실,제 8 기 1분기,,2216920310.0,,,,제 7 기 1분기,1917674990.0,,,20240516001477
+2024,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본잉여금 [구성요소],당기순손실,제 8 기 1분기,,0.0,,,,제 7 기 1분기,0.0,,,20240516001477
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_Assets,-,자산총계,제 8 기 3분기말,,46221370313.0,,제 7 기말,21318165682.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_CurrentAssets,-,유동자산,제 8 기 3분기말,,36140872322.0,,제 7 기말,17187995497.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_CashAndCashEquivalents,-,현금및현금성자산,제 8 기 3분기말,,13990051666.0,,제 7 기말,4161370525.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_CurrentContractAssets,-,계약자산,제 8 기 3분기말,,886332312.0,,제 7 기말,321828382.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_CurrentTaxAssets,-,당기법인세자산,제 8 기 3분기말,,120039850.0,,제 7 기말,35306530.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_Inventories,-,재고자산,제 8 기 3분기말,,1259377120.0,,제 7 기말,906965861.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentAssets,-,기타유동자산,제 8 기 3분기말,,602115354.0,,제 7 기말,311207264.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentFinancialAssets,-,기타금융자산,제 8 기 3분기말,,476072554.0,,제 7 기말,442881935.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,-,단기금융상품,제 8 기 3분기말,,18000000000.0,,제 7 기말,10000000000.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_TradeAndOtherCurrentReceivables,-,매출채권,제 8 기 3분기말,,806883466.0,,제 7 기말,1008435000.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentAssets,-,비유동자산,제 8 기 3분기말,,10080497991.0,,제 7 기말,4130170185.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,dart_LongTermDepositsNotClassifiedAsCashEquivalents,-,장기금융상품,제 8 기 3분기말,,0.0,,제 7 기말,98736.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,dart_LongTermLoansGross,-,장기대여금,제 8 기 3분기말,,4457860000.0,,제 7 기말,0.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_IntangibleAssetsOtherThanGoodwill,-,무형자산,제 8 기 3분기말,,1038327373.0,,제 7 기말,681158490.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,-,당기손익-공정가치금융자산,제 8 기 3분기말,,440056096.0,,제 7 기말,100000.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_OtherNoncurrentFinancialAssets,-,기타금융자산,제 8 기 3분기말,,305123204.0,,제 7 기말,386390821.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_PropertyPlantAndEquipment,-,유형자산,제 8 기 3분기말,,3839131318.0,,제 7 기말,3062422138.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,dart_CapitalSurplus,-,자본잉여금,제 8 기 3분기말,,89485330218.0,,제 7 기말,49884560718.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,-,기타자본항목,제 8 기 3분기말,,2241252885.0,,제 7 기말,1810536386.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_Equity,-,자본총계,제 8 기 3분기말,,43341988669.0,,제 7 기말,8677896459.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_IssuedCapital,-,자본금,제 8 기 3분기말,,7472690500.0,,제 7 기말,6183488000.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_RetainedEarnings,-,결손금,제 8 기 3분기말,,-55857284934.0,,제 7 기말,-49200688645.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_EquityAndLiabilities,-,자본과부채총계,제 8 기 3분기말,,46221370313.0,,제 7 기말,21318165682.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_CurrentLiabilities,-,유동부채,제 8 기 3분기말,,1270897388.0,,제 7 기말,11018322980.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,-표준계정코드 미사용-,-,전환우선주부채,제 8 기 3분기말,,0.0,,제 7 기말,9604804440.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_CurrentContractLiabilities,-,계약부채,제 8 기 3분기말,,109596043.0,,제 7 기말,181121691.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_CurrentLeaseLiabilities,-,리스부채,제 8 기 3분기말,,414826225.0,,제 7 기말,489494155.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentFinancialLiabilities,-,기타금융부채,제 8 기 3분기말,,222336739.0,,제 7 기말,321260006.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentLiabilities,-,기타 유동부채,제 8 기 3분기말,,321049136.0,,제 7 기말,323030378.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_TradeAndOtherCurrentPayables,-,매입채무,제 8 기 3분기말,,203089245.0,,제 7 기말,98612310.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_Liabilities,-,부채총계,제 8 기 3분기말,,2879381644.0,,제 7 기말,12640269223.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentLiabilities,-,비유동부채,제 8 기 3분기말,,1608484256.0,,제 7 기말,1621946243.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,dart_PostemploymentBenefitObligations,-,순확정급여부채,제 8 기 3분기말,,232449438.0,,제 7 기말,319630356.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,-표준계정코드 미사용-,-,장기종업원급여부채,제 8 기 3분기말,,68344030.0,,제 7 기말,49161160.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentLeaseLiabilities,-,리스부채,제 8 기 3분기말,,249558788.0,,제 7 기말,187354238.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentProvisions,-,충당부채,제 8 기 3분기말,,615557465.0,,제 7 기말,618141990.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,-,기타금융부채,제 8 기 3분기말,,442574535.0,,제 7 기말,447658499.0,,,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,dart_OperatingIncomeLoss,-,영업손실,제 8 기 3분기,,-2388269314.0,-7303681723.0,,,제 7 기 3분기,-1630759318.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,dart_OtherGains,-,기타수익,제 8 기 3분기,,27135767.0,72346186.0,,,제 7 기 3분기,659268.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,dart_OtherLosses,-,기타비용,제 8 기 3분기,,83084134.0,120156501.0,,,제 7 기 3분기,2484794409.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,-,판매비와관리비,제 8 기 3분기,,3021368919.0,9478820633.0,,,제 7 기 3분기,2191355565.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_ComprehensiveIncome,-,총포괄손익,제 8 기 3분기,,-2168359201.0,-6656596289.0,,,제 7 기 3분기,-4186066884.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_CostOfSales,-,매출원가,제 8 기 3분기,,312389581.0,1187253296.0,,,제 7 기 3분기,538452769.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_BasicEarningsLossPerShare,-,기본주당손실,제 8 기 3분기,,-145.0,-461.0,,,제 7 기 3분기,-393.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_DilutedEarningsLossPerShare,-,희석주당손실,제 8 기 3분기,,-145.0,-461.0,,,제 7 기 3분기,-393.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_FinanceCosts,-,금융비용,제 8 기 3분기,,19181608.0,60413680.0,,,제 7 기 3분기,145323381.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_FinanceIncome,-,금융수익,제 8 기 3분기,,295040088.0,755309429.0,,,제 7 기 3분기,74150956.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_GrossProfit,-,매출총이익,제 8 기 3분기,,633099605.0,2175138910.0,,,제 7 기 3분기,560596247.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,-,법인세비용,제 8 기 3분기,,0.0,0.0,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_OtherComprehensiveIncome,-,기타포괄손익,제 8 기 3분기,,0.0,0.0,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_ProfitLoss,-,당기순손실,제 8 기 3분기,,-2168359201.0,-6656596289.0,,,제 7 기 3분기,-4186066884.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_ProfitLossBeforeTax,-,법인세비용차감전순손실,제 8 기 3분기,,-2168359201.0,-6656596289.0,,,제 7 기 3분기,-4186066884.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_Revenue,-,매출액,제 8 기 3분기,,945489186.0,3362392206.0,,,제 7 기 3분기,1099049016.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,-,기초현금및현금성자산,제 8 기 3분기,,4161370525.0,,,,제 7 기 3분기,2068831966.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,-,기말현금및현금성자산,제 8 기 3분기,,13990051666.0,,,,제 7 기 3분기,1683062945.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,-,재무활동현금흐름,제 8 기 3분기,,30827464081.0,,,,제 7 기 3분기,9760989794.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,-,리스부채의 상환,제 8 기 3분기,,457703479.0,,,,제 7 기 3분기,325563146.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,dart_ProceedsFromExerciseOfShareOptions,-,주식선택권의 행사,제 8 기 3분기,,0.0,,,,제 7 기 3분기,86560000.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_ProceedsFromIssueOfPreferenceShares,-,전환우선주의 발행,제 8 기 3분기,,0.0,,,,제 7 기 3분기,9999992940.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_ProceedsFromIssuingShares,-,유상증자,제 8 기 3분기,,31285167560.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,-,투자활동현금흐름,제 8 기 3분기,,-14980756911.0,,,,제 7 기 3분기,-5690860994.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,dart_DecreaseInGuaranteeDeposits,-,보증금의 감소,제 8 기 3분기,,158740000.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,dart_IncreaseInGuaranteeDeposits,-,보증금의 증가,제 8 기 3분기,,275428000.0,,,,제 7 기 3분기,63024000.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,dart_ProceedsFromSalesOfFairValueFinancialAsset,-,당기손익-공정가치금융자산의 감소,제 8 기 3분기,,0.0,,,,제 7 기 3분기,-1834949315.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,dart_ProceedsFromSalesOfLongTermFinancialInstruments,-,장기금융상품의 감소,제 8 기 3분기,,98736.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities,-,비상장주식-공정가치측정금융자산의 증가,제 8 기 3분기,,-439956096.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,dart_PurchaseOfLongTermFinancialInstruments,-,장기금융상품의 증가,제 8 기 3분기,,0.0,,,,제 7 기 3분기,17649.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,dart_PurchaseOfLongTermLoansAndReceivables,-,장기대여금의 증가,제 8 기 3분기,,4457860000.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,dart_PurchaseOfShortTermFinancialInstruments,-,단기금융상품의 증가,제 8 기 3분기,,8000000000.0,,,,제 7 기 3분기,3000000000.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 처분,제 8 기 3분기,,-26005891.0,,,,제 7 기 3분기,104342.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,-,무형자산의 취득,제 8 기 3분기,,517247890.0,,,,제 7 기 3분기,128897634.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 취득,제 8 기 3분기,,1423097770.0,,,,제 7 기 3분기,664076738.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,-,영업활동현금흐름,제 8 기 3분기,,-6018026029.0,,,,제 7 기 3분기,-4455897821.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,-,영업활동으로 인한 자산 부채의 변동,제 8 기 3분기,,-1206690032.0,,,,제 7 기 3분기,-1131545835.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_AdjustmentsForReconcileProfitLoss,-,조정,제 8 기 3분기,,1213380878.0,,,,제 7 기 3분기,4515089860.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,-,법인세환급(납부),제 8 기 3분기,,84733320.0,,,,제 7 기 3분기,-2346210.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,-,이자지급,제 8 기 3분기,,58476372.0,,,,제 7 기 3분기,56781002.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,-,이자수취,제 8 기 3분기,,775089106.0,,,,제 7 기 3분기,32559602.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_ProfitLoss,-,당기순손실,제 8 기 3분기,,-2168359201.0,,,,제 7 기 3분기,-4186066884.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,-,현금및현금성자산의순증가(감소),제 8 기 3분기,,9828681141.0,,,,제 7 기 3분기,-385769021.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,별도재무제표 [member],전환상환우선주의 보통주 전환,제 8 기 3분기,,9604224200.0,,,,제 7 기 3분기,36403945600.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|기타자본구성요소 [구성요소],전환상환우선주의 보통주 전환,제 8 기 3분기,,0.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|이익잉여금 [구성요소],전환상환우선주의 보통주 전환,제 8 기 3분기,,0.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본금 [구성요소],전환상환우선주의 보통주 전환,제 8 기 3분기,,465202500.0,,,,제 7 기 3분기,1677568000.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본잉여금 [구성요소],전환상환우선주의 보통주 전환,제 8 기 3분기,,9139021700.0,,,,제 7 기 3분기,34726377600.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|이익잉여금 [구성요소],기초자본,제 8 기 3분기,,49200688645.0,,,,제 7 기 3분기,39956626974.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|기타자본구성요소 [구성요소],기초자본,제 8 기 3분기,,1810536386.0,,,,제 7 기 3분기,1596874342.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,별도재무제표 [member],기초자본,제 8 기 3분기,,8677896459.0,,,,제 7 기 3분기,19785449759.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본금 [구성요소],기초자본,제 8 기 3분기,,6183488000.0,,,,제 7 기 3분기,4419360000.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본잉여금 [구성요소],기초자본,제 8 기 3분기,,49884560718.0,,,,제 7 기 3분기,14154942873.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|기타자본구성요소 [구성요소],유상증자,제 8 기 3분기,,0.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,-표준계정코드 미사용-,별도재무제표 [member],유상증자,제 8 기 3분기,,31285747800.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|이익잉여금 [구성요소],유상증자,제 8 기 3분기,,0.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|자본금 [구성요소],유상증자,제 8 기 3분기,,824000000.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,-표준계정코드 미사용-,자본 [구성요소]|자본잉여금 [구성요소],유상증자,제 8 기 3분기,,30461747800.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,별도재무제표 [member],자본총계,제 8 기 3분기,,43341988669.0,,,8677896459.0,제 7 기 3분기,9525449724.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|기타자본구성요소 [구성요소],자본총계,제 8 기 3분기,,2241252885.0,,,,제 7 기 3분기,1583046380.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|이익잉여금 [구성요소],자본총계,제 8 기 3분기,,55857284934.0,,,,제 7 기 3분기,47774193630.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본금 [구성요소],자본총계,제 8 기 3분기,,7472690500.0,,,,제 7 기 3분기,6183488000.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본잉여금 [구성요소],자본총계,제 8 기 3분기,,89485330218.0,,,,제 7 기 3분기,49533108974.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|기타자본구성요소 [구성요소],주식보상비용,제 8 기 3분기,,430716499.0,,,,제 7 기 3분기,637960539.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,별도재무제표 [member],주식보상비용,제 8 기 3분기,,430716499.0,,,,제 7 기 3분기,637960539.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|이익잉여금 [구성요소],주식보상비용,제 8 기 3분기,,0.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본잉여금 [구성요소],주식보상비용,제 8 기 3분기,,0.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본금 [구성요소],주식보상비용,제 8 기 3분기,,0.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,별도재무제표 [member],주식선택권의 행사,제 8 기 3분기,,0.0,,,,제 7 기 3분기,86560000.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|기타자본구성요소 [구성요소],주식선택권의 행사,제 8 기 3분기,,0.0,,,,제 7 기 3분기,651788501.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|이익잉여금 [구성요소],주식선택권의 행사,제 8 기 3분기,,0.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|자본금 [구성요소],주식선택권의 행사,제 8 기 3분기,,0.0,,,,제 7 기 3분기,86560000.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughTransfersAndOtherChangesEquity,자본 [구성요소]|자본잉여금 [구성요소],주식선택권의 행사,제 8 기 3분기,,0.0,,,,제 7 기 3분기,651788501.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,별도재무제표 [member],당기순손실,제 8 기 3분기,,-2168359201.0,,,,제 7 기 3분기,-4186066884.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|기타자본구성요소 [구성요소],당기순손실,제 8 기 3분기,,0.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본금 [구성요소],당기순손실,제 8 기 3분기,,0.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|이익잉여금 [구성요소],당기순손실,제 8 기 3분기,,6656596289.0,,,,제 7 기 3분기,7817566656.0,,,20241114002434
+2024,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본잉여금 [구성요소],당기순손실,제 8 기 3분기,,0.0,,,,제 7 기 3분기,0.0,,,20241114002434
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_Assets,-,자산총계,제 9 기,,37033858938.0,,제 8 기,43876809146.0,,,제 7 기,21318165682.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentAssets,-,유동자산,제 9 기,,28624495235.0,,제 8 기,34310305670.0,,,제 7 기,17187995497.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_CashAndCashEquivalents,-,현금및현금성자산,제 9 기,,3150701424.0,,제 8 기,15063990553.0,,,제 7 기,4161370525.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentContractAssets,-,계약자산,제 9 기,,451480481.0,,제 8 기,365497273.0,,,제 7 기,321828382.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentTaxAssets,-,당기법인세자산,제 9 기,,118424090.0,,제 8 기,142859500.0,,,제 7 기,35306530.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_Inventories,-,재고자산,제 9 기,,1340394674.0,,제 8 기,1084662073.0,,,제 7 기,906965861.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherCurrentAssets,-,기타유동자산,제 9 기,,319864472.0,,제 8 기,303639305.0,,,제 7 기,311207264.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherCurrentFinancialAssets,-,기타금융자산,제 9 기,,520400394.0,,제 8 기,627897500.0,,,제 7 기,442881935.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,-,단기금융상품,제 9 기,,22000000000.0,,제 8 기,16000000000.0,,,제 7 기,10000000000.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_TradeAndOtherCurrentReceivables,-,매출채권,제 9 기,,723229700.0,,제 8 기,721759466.0,,,제 7 기,1008435000.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentAssets,-,비유동자산,제 9 기,,8409363703.0,,제 8 기,9566503476.0,,,제 7 기,4130170185.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,dart_LongTermDepositsNotClassifiedAsCashEquivalents,-,장기금융상품,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,98736.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,dart_LongTermLoansGross,-,장기대여금,제 9 기,,2643200000.0,,제 8 기,4271860000.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_IntangibleAssetsOtherThanGoodwill,-,무형자산,제 9 기,,870189354.0,,제 8 기,1030565940.0,,,제 7 기,681158490.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,-,당기손익-공정가치금융자산,제 9 기,,440056096.0,,제 8 기,440056096.0,,,제 7 기,100000.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherNoncurrentFinancialAssets,-,기타금융자산,제 9 기,,385590703.0,,제 8 기,312933905.0,,,제 7 기,386390821.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_PropertyPlantAndEquipment,-,유형자산,제 9 기,,4070327550.0,,제 8 기,3511087535.0,,,제 7 기,3062422138.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,dart_CapitalSurplus,-,자본잉여금,제 9 기,,91979443585.0,,제 8 기,90006544929.0,,,제 7 기,49884560718.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,-,기타자본항목,제 9 기,,2136150946.0,,제 8 기,2293655493.0,,,제 7 기,1810536386.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_Equity,-,자본총계,제 9 기,,32626209747.0,,제 8 기,40328538886.0,,,제 7 기,8677896459.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_IssuedCapital,-,자본금,제 9 기,,7609026500.0,,제 8 기,7495565500.0,,,제 7 기,6183488000.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_RetainedEarnings,-,결손금,제 9 기,,-69098411284.0,,제 8 기,-59467227036.0,,,제 7 기,-49200688645.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_EquityAndLiabilities,-,자본과부채총계,제 9 기,,37033858938.0,,제 8 기,43876809146.0,,,제 7 기,21318165682.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentLiabilities,-,유동부채,제 9 기,,1221869609.0,,제 8 기,1135442807.0,,,제 7 기,11018322980.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,dart_ConvertibleRedeemablePreferredStockLiabilitiesNet,-,전환우선주부채,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,9604804440.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentContractLiabilities,-,계약부채,제 9 기,,126589878.0,,제 8 기,151347771.0,,,제 7 기,181121691.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_CurrentLeaseLiabilities,-,리스부채,제 9 기,,444153430.0,,제 8 기,364941224.0,,,제 7 기,489494155.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherCurrentFinancialLiabilities,-,기타금융부채,제 9 기,,237270417.0,,제 8 기,166301203.0,,,제 7 기,321260006.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherCurrentLiabilities,-,기타 유동부채,제 9 기,,397508476.0,,제 8 기,396186742.0,,,제 7 기,323030378.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_TradeAndOtherCurrentPayables,-,매입채무,제 9 기,,16347408.0,,제 8 기,56665867.0,,,제 7 기,98612310.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_Liabilities,-,부채총계,제 9 기,,4407649191.0,,제 8 기,3548270260.0,,,제 7 기,12640269223.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentLiabilities,-,비유동부채,제 9 기,,3185779582.0,,제 8 기,2412827453.0,,,제 7 기,1621946243.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,dart_PostemploymentBenefitObligations,-,순확정급여부채,제 9 기,,1052950915.0,,제 8 기,846117861.0,,,제 7 기,319630356.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentLeaseLiabilities,-,리스부채,제 9 기,,775735020.0,,제 8 기,202569213.0,,,제 7 기,187354238.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentProvisions,-,충당부채,제 9 기,,483591652.0,,제 8 기,802313180.0,,,제 7 기,618141990.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_NoncurrentProvisionsForEmployeeBenefits,-,장기종업원급여부채,제 9 기,,67073237.0,,제 8 기,57069359.0,,,제 7 기,49161160.0,20260323000858
+2025,11011,사업보고서,annual,OFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,-,기타금융부채,제 9 기,,806428758.0,,제 8 기,504757840.0,,,제 7 기,447658499.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,dart_OperatingIncomeLoss,-,영업이익,제 9 기,,-10276486752.0,,제 8 기,-10841824608.0,,,제 7 기,-6496614879.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,dart_OtherGains,-,기타수익,제 9 기,,23244385.0,,제 8 기,71281396.0,,,제 7 기,1259382.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,dart_OtherLosses,-,기타비용,제 9 기,,183543519.0,,제 8 기,199557655.0,,,제 7 기,2856772149.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,-,판매비와관리비,제 9 기,,12887727457.0,,제 8 기,13351235711.0,,,제 7 기,9263630852.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,ifrs-full_ComprehensiveIncome,-,총포괄손익,제 9 기,,-9631184248.0,,제 8 기,-10266538391.0,,,제 7 기,-9244061671.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,ifrs-full_CostOfSales,-,매출원가,제 9 기,,2030071475.0,,제 8 기,1701542821.0,,,제 7 기,2379170428.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,ifrs-full_BasicEarningsLossPerShare,-,기본주당손실,제 9 기,,-642.0,,제 8 기,-687.0,,,제 7 기,-770.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,ifrs-full_DilutedEarningsLossPerShare,-,희석주당손실,제 9 기,,-642.0,,제 8 기,-687.0,,,제 7 기,-770.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,ifrs-full_FinanceCosts,-,금융비용,제 9 기,,129481772.0,,제 8 기,76756294.0,,,제 7 기,614246764.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,ifrs-full_FinanceIncome,-,금융수익,제 9 기,,851206390.0,,제 8 기,1040889473.0,,,제 7 기,727422849.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,ifrs-full_GrossProfit,-,매출총이익,제 9 기,,2611240705.0,,제 8 기,2509411103.0,,,제 7 기,2767015973.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,-,법인세비용,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,ifrs-full_OtherComprehensiveIncome,-,기타포괄손익,제 9 기,,83877020.0,,제 8 기,-260570703.0,,,제 7 기,-5110110.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,ifrs-full_ProfitLoss,-,당기순이익,제 9 기,,-9715061268.0,,제 8 기,-10005967688.0,,,제 7 기,-9238951561.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,ifrs-full_ProfitLossBeforeTax,-,법인세비용차감전순이익,제 9 기,,-9715061268.0,,제 8 기,-10005967688.0,,,제 7 기,-9238951561.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CIS,ifrs-full_Revenue,-,매출액,제 9 기,,4641312180.0,,제 8 기,4210953924.0,,,제 7 기,5146186401.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,-,기초현금및현금성자산,제 9 기,,15063990553.0,,제 8 기,4161370525.0,,,제 7 기,2068831966.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,-,기말현금및현금성자산,제 9 기,,3150701424.0,,제 8 기,15063990553.0,,,제 7 기,4161370525.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,-,재무활동현금흐름,제 9 기,,658991415.0,,제 8 기,31053329298.0,,,제 7 기,9645895494.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,-,리스부채의 상환,제 9 기,,513913521.0,,제 8 기,605660042.0,,,제 7 기,440657446.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,dart_ProceedsFromExerciseOfShareOptions,-,주식선택권의 행사,제 9 기,,1172904936.0,,제 8 기,373821780.0,,,제 7 기,86560000.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,dart_ProceedsFromIssuingConvertibleBonds,-,상환우선주 발행,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,9999992940.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,ifrs-full_ProceedsFromIssuingShares,-,유상증자,제 9 기,,0.0,,제 8 기,31285167560.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,-,투자활동현금흐름,제 9 기,,-5353102605.0,,제 8 기,-12924374888.0,,,제 7 기,-3200672461.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,dart_DecreaseInGuaranteeDeposits,-,보증금의 감소,제 9 기,,350260000.0,,제 8 기,178405000.0,,,제 7 기,27407000.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,dart_IncreaseInGuaranteeDeposits,-,보증금의 증가,제 9 기,,431000000.0,,제 8 기,275428000.0,,,제 7 기,89809000.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities,-,당기손익-공정가치측정금융자산의 감소,제 9 기,,-6000000000.0,,제 8 기,0.0,,,제 7 기,6067298630.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,dart_ProceedsFromSalesOfLongTermFinancialInstruments,-,장기금융상품의 감소,제 9 기,,0.0,,제 8 기,98736.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,dart_ProceedsFromSalesOfLongTermLoansAndReceivables,-,장기대여금의 감소(증가),제 9 기,,1628660000.0,,제 8 기,-4271860000.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,dart_PurchaseOfLongTermFinancialInstruments,-,장기금융상품의 증가,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,23532.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,dart_PurchaseOfShortTermFinancialInstruments,-,단기금융상품의 증가,제 9 기,,0.0,,제 8 기,6000000000.0,,,제 7 기,8000000000.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 처분,제 9 기,,79445455.0,,제 8 기,0.0,,,제 7 기,46364.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,-,무형자산의 취득,제 9 기,,83046203.0,,제 8 기,577247890.0,,,제 7 기,474497634.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 취득,제 9 기,,897421857.0,,제 8 기,1538386638.0,,,제 7 기,731094289.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,ifrs-full_PurchasesFairValueMeasurementAssets,-,공정가치 측정 금융자산-비상장주식의 증가,제 9 기,,0.0,,제 8 기,-439956096.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,-,영업활동현금흐름,제 9 기,,-7219333059.0,,제 8 기,-7226334382.0,,,제 7 기,-4352684474.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,-,영업활동으로 인한 자산 부채의 변동,제 9 기,,-589265274.0,,제 8 기,-256780774.0,,,제 7 기,-192069272.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,ifrs-full_AdjustmentsForReconcileProfitLoss,-,조정,제 9 기,,2419595755.0,,제 8 기,2300414665.0,,,제 7 기,4992610120.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,-,법인세납부,제 9 기,,-24435410.0,,제 8 기,107552970.0,,,제 7 기,2533190.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,-,이자지급,제 9 기,,122893677.0,,제 8 기,74110733.0,,,제 7 기,73747757.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,-,이자수취,제 9 기,,763855995.0,,제 8 기,917663118.0,,,제 7 기,162007186.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,ifrs-full_ProfitLoss,-,당기순이익,제 9 기,,-9715061268.0,,제 8 기,-10005967688.0,,,제 7 기,-9238951561.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,-,현금및현금성자산에 대한 환율변동효과,제 9 기,,155120.0,,제 8 기,0.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,-,현금및현금성자산의순증가(감소),제 9 기,,-11913444249.0,,제 8 기,10902620028.0,,,제 7 기,2092538559.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,dart_CompoundFinancialInstrumentConversion,별도재무제표 [member],전환우선주의 보통주 전환,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|기타자본구성요소 [구성요소],전환우선주의 보통주 전환,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|이익잉여금 [구성요소],전환우선주의 보통주 전환,제 9 기,,0.0,,제 8 기,9604224200.0,,,제 7 기,36755397344.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본금 [구성요소],전환우선주의 보통주 전환,제 9 기,,0.0,,제 8 기,465202500.0,,,제 7 기,1677568000.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본잉여금 [구성요소],전환우선주의 보통주 전환,제 9 기,,0.0,,제 8 기,9139021700.0,,,제 7 기,35077829344.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|이익잉여금 [구성요소],기초자본,제 9 기,,-59467227036.0,,제 8 기,8677896459.0,,,제 7 기,-19785449759.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|기타자본구성요소 [구성요소],기초자본,제 9 기,,2293655493.0,,제 8 기,1810536386.0,,,제 7 기,1596874342.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,dart_EquityAtBeginningOfPeriod,별도재무제표 [member],기초자본,제 9 기,,40328538886.0,,제 8 기,-49200688645.0,,,제 7 기,-39956626974.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본금 [구성요소],기초자본,제 9 기,,7495565500.0,,제 8 기,6183488000.0,,,제 7 기,4419360000.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본잉여금 [구성요소],기초자본,제 9 기,,90006544929.0,,제 8 기,49884560718.0,,,제 7 기,14154942873.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|자본금 [구성요소],주식선택권의 행사,제 9 기,,113461000.0,,제 8 기,22875000.0,,,제 7 기,86560000.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|이익잉여금 [구성요소],주식선택권의 행사,제 9 기,,0.0,,제 8 기,373821780.0,,,제 7 기,86560000.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|기타자본구성요소 [구성요소],주식선택권의 행사,제 9 기,,913454720.0,,제 8 기,-170267931.0,,,제 7 기,-651788501.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,별도재무제표 [member],주식선택권의 행사,제 9 기,,1172904936.0,,제 8 기,373821780.0,,,제 7 기,86560000.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|자본잉여금 [구성요소],주식선택권의 행사,제 9 기,,1972898656.0,,제 8 기,521214711.0,,,제 7 기,651788501.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_Equity,별도재무제표 [member],자본총계,제 9 기,,32626209747.0,,제 8 기,40328538886.0,,,제 7 기,8677896459.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|기타자본구성요소 [구성요소],자본총계,제 9 기,,2136150946.0,,제 8 기,2293655493.0,,,제 7 기,1810536386.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|이익잉여금 [구성요소],자본총계,제 9 기,,69098411284.0,,제 8 기,40328538886.0,,,제 7 기,8677896459.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본금 [구성요소],자본총계,제 9 기,,7609026500.0,,제 8 기,7495565500.0,,,제 7 기,6183488000.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본잉여금 [구성요소],자본총계,제 9 기,,91979443585.0,,제 8 기,90006544929.0,,,제 7 기,49884560718.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본금 [구성요소],주식보상비용,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|이익잉여금 [구성요소],주식보상비용,제 9 기,,0.0,,제 8 기,653387038.0,,,제 7 기,865450545.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|기타자본구성요소 [구성요소],주식보상비용,제 9 기,,755950173.0,,제 8 기,653387038.0,,,제 7 기,865450545.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,별도재무제표 [member],주식보상비용,제 9 기,,755950173.0,,제 8 기,0.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본잉여금 [구성요소],주식보상비용,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|기타자본구성요소 [구성요소],유상증자,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_IssueOfEquity,별도재무제표 [member],유상증자,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|이익잉여금 [구성요소],유상증자,제 9 기,,0.0,,제 8 기,31285747800.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|자본금 [구성요소],유상증자,제 9 기,,0.0,,제 8 기,824000000.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|자본잉여금 [구성요소],유상증자,제 9 기,,0.0,,제 8 기,30461747800.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,자본 [구성요소]|기타자본구성요소 [구성요소],순확정급여제도의재측정요소,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,별도재무제표 [member],순확정급여제도의재측정요소,제 9 기,,83877020.0,,제 8 기,260570703.0,,,제 7 기,5110110.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,자본 [구성요소]|이익잉여금 [구성요소],순확정급여제도의재측정요소,제 9 기,,83877020.0,,제 8 기,260570703.0,,,제 7 기,5110110.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,자본 [구성요소]|자본잉여금 [구성요소],순확정급여제도의재측정요소,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,자본 [구성요소]|자본금 [구성요소],순확정급여제도의재측정요소,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_ProfitLoss,별도재무제표 [member],당기순이익,제 9 기,,-9715061268.0,,제 8 기,-10005967688.0,,,제 7 기,-9238951561.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|기타자본구성요소 [구성요소],당기순이익,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본금 [구성요소],당기순이익,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,0.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|이익잉여금 [구성요소],당기순이익,제 9 기,,9715061268.0,,제 8 기,-10005967688.0,,,제 7 기,-9238951561.0,20260323000858
+2025,11011,사업보고서,annual,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본잉여금 [구성요소],당기순이익,제 9 기,,0.0,,제 8 기,0.0,,,제 7 기,0.0,20260323000858
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_Assets,-,자산총계,제 9 기 반기말,,42061398696.0,,제 8 기말,43876809146.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentAssets,-,유동자산,제 9 기 반기말,,32144472418.0,,제 8 기말,34310305670.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_CashAndCashEquivalents,-,현금및현금성자산,제 9 기 반기말,,3710354626.0,,제 8 기말,15063990553.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentContractAssets,-,계약자산,제 9 기 반기말,,921131486.0,,제 8 기말,365497273.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentTaxAssets,-,당기법인세자산,제 9 기 반기말,,57369770.0,,제 8 기말,142859500.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_Inventories,-,재고자산,제 9 기 반기말,,1253989040.0,,제 8 기말,1084662073.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherCurrentAssets,-,기타유동자산,제 9 기 반기말,,257196581.0,,제 8 기말,303639305.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherCurrentFinancialAssets,-,기타금융자산,제 9 기 반기말,,801902549.0,,제 8 기말,627897500.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,-,단기금융상품,제 9 기 반기말,,24000000000.0,,제 8 기말,16000000000.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_TradeAndOtherCurrentReceivables,-,매출채권,제 9 기 반기말,,1142528366.0,,제 8 기말,721759466.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentAssets,-,비유동자산,제 9 기 반기말,,9916926278.0,,제 8 기말,9566503476.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,dart_LongTermLoansGross,-,장기대여금,제 9 기 반기말,,3595200000.0,,제 8 기말,4271860000.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_IntangibleAssetsOtherThanGoodwill,-,무형자산,제 9 기 반기말,,938901696.0,,제 8 기말,1030565940.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,-,당기손익-공정가치금융자산,제 9 기 반기말,,440056096.0,,제 8 기말,440056096.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherNoncurrentFinancialAssets,-,기타금융자산,제 9 기 반기말,,396082994.0,,제 8 기말,312933905.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_PropertyPlantAndEquipment,-,유형자산,제 9 기 반기말,,4546685492.0,,제 8 기말,3511087535.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,dart_CapitalSurplus,-,자본잉여금,제 9 기 반기말,,91567724603.0,,제 8 기말,90006544929.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,-,기타자본항목,제 9 기 반기말,,1903347947.0,,제 8 기말,2293655493.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_Equity,-,자본총계,제 9 기 반기말,,37190725984.0,,제 8 기말,40328538886.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_IssuedCapital,-,자본금,제 9 기 반기말,,7591565500.0,,제 8 기말,7495565500.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_RetainedEarnings,-,결손금,제 9 기 반기말,,-63871912066.0,,제 8 기말,-59467227036.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_EquityAndLiabilities,-,자본과부채총계,제 9 기 반기말,,42061398696.0,,제 8 기말,43876809146.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentLiabilities,-,유동부채,제 9 기 반기말,,1660384322.0,,제 8 기말,1135442807.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentContractLiabilities,-,계약부채,제 9 기 반기말,,122888946.0,,제 8 기말,151347771.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentLeaseLiabilities,-,리스부채,제 9 기 반기말,,563360243.0,,제 8 기말,364941224.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherCurrentFinancialLiabilities,-,기타금융부채,제 9 기 반기말,,439698557.0,,제 8 기말,166301203.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherCurrentLiabilities,-,기타 유동부채,제 9 기 반기말,,353965469.0,,제 8 기말,396186742.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_TradeAndOtherCurrentPayables,-,매입채무,제 9 기 반기말,,180471107.0,,제 8 기말,56665867.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_Liabilities,-,부채총계,제 9 기 반기말,,4870672712.0,,제 8 기말,3548270260.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentLiabilities,-,비유동부채,제 9 기 반기말,,3210288390.0,,제 8 기말,2412827453.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,dart_PostemploymentBenefitObligations,-,순확정급여부채,제 9 기 반기말,,1005673593.0,,제 8 기말,846117861.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentLeaseLiabilities,-,리스부채,제 9 기 반기말,,923840890.0,,제 8 기말,202569213.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentProvisions,-,충당부채,제 9 기 반기말,,611340337.0,,제 8 기말,802313180.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentProvisionsForEmployeeBenefits,-,장기종업원급여부채,제 9 기 반기말,,70880645.0,,제 8 기말,57069359.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,-,기타금융부채,제 9 기 반기말,,598552925.0,,제 8 기말,504757840.0,,,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,dart_OperatingIncomeLoss,-,영업이익,제 9 기 반기,,-2176596654.0,-4666001837.0,,,제 8 기 반기,-2624876629.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,dart_OtherGains,-,기타수익,제 9 기 반기,,23139644.0,23141200.0,,,제 8 기 반기,45060121.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,dart_OtherLosses,-,기타비용,제 9 기 반기,,8055877.0,181532920.0,,,제 8 기 반기,21206202.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,-,판매비와관리비,제 9 기 반기,,3114665491.0,6296143534.0,,,제 8 기 반기,3524421738.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,ifrs-full_ComprehensiveIncome,-,총포괄손익,제 9 기 반기,,-1973683608.0,-4404685030.0,,,제 8 기 반기,-2271316778.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,ifrs-full_CostOfSales,-,매출원가,제 9 기 반기,,552180550.0,931935259.0,,,제 8 기 반기,485645744.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,ifrs-full_BasicEarningsLossPerShare,-,기본주당손실,제 9 기 반기,,-130.0,-292.0,,,제 8 기 반기,-151.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,ifrs-full_DilutedEarningsLossPerShare,-,희석주당손실,제 9 기 반기,,-130.0,-292.0,,,제 8 기 반기,-151.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,ifrs-full_FinanceCosts,-,금융비용,제 9 기 반기,,38211365.0,60791823.0,,,제 8 기 반기,23060826.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,ifrs-full_FinanceIncome,-,금융수익,제 9 기 반기,,226040644.0,480500350.0,,,제 8 기 반기,352766758.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,ifrs-full_GrossProfit,-,매출총이익,제 9 기 반기,,938068837.0,1630141697.0,,,제 8 기 반기,899545109.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,-,법인세비용,제 9 기 반기,,0.0,0.0,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,ifrs-full_OtherComprehensiveIncome,-,기타포괄손익,제 9 기 반기,,0.0,0.0,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,ifrs-full_ProfitLoss,-,당기순이익,제 9 기 반기,,-1973683608.0,-4404685030.0,,,제 8 기 반기,-2271316778.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,ifrs-full_ProfitLossBeforeTax,-,법인세비용차감전순이익,제 9 기 반기,,-1973683608.0,-4404685030.0,,,제 8 기 반기,-2271316778.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CIS,ifrs-full_Revenue,-,매출액,제 9 기 반기,,1490249387.0,2562076956.0,,,제 8 기 반기,1385190853.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,-,기초현금및현금성자산,제 9 기 반기,,15063990553.0,,,,제 8 기 반기,4161370525.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,-,기말현금및현금성자산,제 9 기 반기,,3710354626.0,,,,제 8 기 반기,4203440167.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,-,재무활동현금흐름,제 9 기 반기,,640971762.0,,,,제 8 기 반기,30986223098.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,-,리스부채의 상환,제 9 기 반기,,246600838.0,,,,제 8 기 반기,298944462.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,dart_ProceedsFromExerciseOfShareOptions,-,주식선택권의 행사,제 9 기 반기,,887572600.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,ifrs-full_ProceedsFromIssuingShares,-,유상증자,제 9 기 반기,,0.0,,,,제 8 기 반기,31285167560.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,-,투자활동현금흐름,제 9 기 반기,,-7985405572.0,,,,제 8 기 반기,-26466138613.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,dart_DecreaseInGuaranteeDeposits,-,보증금의 감소,제 9 기 반기,,350260000.0,,,,제 8 기 반기,46940000.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,dart_IncreaseInGuaranteeDeposits,-,보증금의 증가,제 9 기 반기,,431000000.0,,,,제 8 기 반기,275428000.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,dart_ProceedsFromSalesOfLongTermFinancialInstruments,-,장기금융상품의 감소,제 9 기 반기,,0.0,,,,제 8 기 반기,98736.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,dart_ProceedsFromSalesOfLongTermLoansAndReceivables,-,장기대여금의 감소,제 9 기 반기,,676660000.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,dart_PurchaseOfLongTermLoansAndReceivables,-,장기대여금의 증가,제 9 기 반기,,0.0,,,,제 8 기 반기,4617860000.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,dart_PurchaseOfShortTermFinancialInstruments,-,단기금융상품의 증가,제 9 기 반기,,8000000000.0,,,,제 8 기 반기,20000000000.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 처분,제 9 기 반기,,79445455.0,,,,제 8 기 반기,227057.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,-,무형자산의 취득,제 9 기 반기,,46771220.0,,,,제 8 기 반기,396379597.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 취득,제 9 기 반기,,613999807.0,,,,제 8 기 반기,1223736809.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,-,영업활동현금흐름,제 9 기 반기,,-4009202117.0,,,,제 8 기 반기,-4478014843.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,-,영업활동으로 인한 자산 부채의 변동,제 9 기 반기,,-1230986463.0,,,,제 8 기 반기,-1123668831.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,ifrs-full_AdjustmentsForReconcileProfitLoss,-,조정,제 9 기 반기,,1231372972.0,,,,제 8 기 반기,915853759.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,-,법인세납부,제 9 기 반기,,-85489730.0,,,,제 8 기 반기,5556270.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,-,이자지급,제 9 기 반기,,57757064.0,,,,제 8 기 반기,39914473.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,-,이자수취,제 9 기 반기,,367363738.0,,,,제 8 기 반기,263508060.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,ifrs-full_ProfitLoss,-,당기순이익,제 9 기 반기,,-1973683608.0,,,,제 8 기 반기,-2271316778.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,-,현금및현금성자산의순증가(감소),제 9 기 반기,,-11353635927.0,,,,제 8 기 반기,42069642.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본잉여금 [구성요소],전환우선주의 보통주 전환,제 9 기 반기,,0.0,,,,제 8 기 반기,9139021700.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,dart_CompoundFinancialInstrumentConversion,별도재무제표 [member],전환우선주의 보통주 전환,제 9 기 반기,,0.0,,,,제 8 기 반기,9604224200.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|기타자본구성요소 [구성요소],전환우선주의 보통주 전환,제 9 기 반기,,0.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|이익잉여금 [구성요소],전환우선주의 보통주 전환,제 9 기 반기,,0.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본금 [구성요소],전환우선주의 보통주 전환,제 9 기 반기,,0.0,,,,제 8 기 반기,465202500.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본금 [구성요소],기초자본,제 9 기 반기,,7495565500.0,,,,제 8 기 반기,6183488000.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|이익잉여금 [구성요소],기초자본,제 9 기 반기,,-59467227036.0,,,,제 8 기 반기,-49200688645.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|기타자본구성요소 [구성요소],기초자본,제 9 기 반기,,2293655493.0,,,,제 8 기 반기,1810536386.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,dart_EquityAtBeginningOfPeriod,별도재무제표 [member],기초자본,제 9 기 반기,,40328538886.0,,,,제 8 기 반기,8677896459.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본잉여금 [구성요소],기초자본,제 9 기 반기,,90006544929.0,,,,제 8 기 반기,49884560718.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|기타자본구성요소 [구성요소],주식선택권의 행사,제 9 기 반기,,-769607074.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,별도재무제표 [member],주식선택권의 행사,제 9 기 반기,,887572600.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|이익잉여금 [구성요소],주식선택권의 행사,제 9 기 반기,,0.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|자본금 [구성요소],주식선택권의 행사,제 9 기 반기,,96000000.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|자본잉여금 [구성요소],주식선택권의 행사,제 9 기 반기,,1561179674.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_Equity,별도재무제표 [member],자본총계,제 9 기 반기,,37190725984.0,,,40328538886.0,제 8 기 반기,45454577972.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|기타자본구성요소 [구성요소],자본총계,제 9 기 반기,,1903347947.0,,,,제 8 기 반기,2185482987.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|이익잉여금 [구성요소],자본총계,제 9 기 반기,,-63871912066.0,,,,제 8 기 반기,-53688925733.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본금 [구성요소],자본총계,제 9 기 반기,,7591565500.0,,,,제 8 기 반기,7472690500.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본잉여금 [구성요소],자본총계,제 9 기 반기,,91567724603.0,,,,제 8 기 반기,89485330218.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|기타자본구성요소 [구성요소],주식보상비용,제 9 기 반기,,379299528.0,,,,제 8 기 반기,374946601.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,별도재무제표 [member],주식보상비용,제 9 기 반기,,379299528.0,,,,제 8 기 반기,374946601.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|이익잉여금 [구성요소],주식보상비용,제 9 기 반기,,0.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본잉여금 [구성요소],주식보상비용,제 9 기 반기,,0.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본금 [구성요소],주식보상비용,제 9 기 반기,,0.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IssueOfEquity,별도재무제표 [member],유상증자,제 9 기 반기,,0.0,,,,제 8 기 반기,31285747800.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|기타자본구성요소 [구성요소],유상증자,제 9 기 반기,,0.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|이익잉여금 [구성요소],유상증자,제 9 기 반기,,0.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|자본금 [구성요소],유상증자,제 9 기 반기,,0.0,,,,제 8 기 반기,824000000.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|자본잉여금 [구성요소],유상증자,제 9 기 반기,,0.0,,,,제 8 기 반기,30461747800.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_ProfitLoss,별도재무제표 [member],당기순이익,제 9 기 반기,,-1973683608.0,,,,제 8 기 반기,-2271316778.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|기타자본구성요소 [구성요소],당기순이익,제 9 기 반기,,0.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본금 [구성요소],당기순이익,제 9 기 반기,,0.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|이익잉여금 [구성요소],당기순이익,제 9 기 반기,,-4404685030.0,,,,제 8 기 반기,-4488237088.0,,,20250814002206
+2025,11012,반기보고서,half_year,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본잉여금 [구성요소],당기순이익,제 9 기 반기,,0.0,,,,제 8 기 반기,0.0,,,20250814002206
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_Assets,-,자산총계,제 9 기 1분기말,,43108327283.0,,제 8 기말,43876809146.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentAssets,-,유동자산,제 9 기 1분기말,,32416106675.0,,제 8 기말,34310305670.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CashAndCashEquivalents,-,현금및현금성자산,제 9 기 1분기말,,3897356633.0,,제 8 기말,15063990553.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentContractAssets,-,계약자산,제 9 기 1분기말,,1086740220.0,,제 8 기말,365497273.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentTaxAssets,-,당기법인세자산,제 9 기 1분기말,,178752810.0,,제 8 기말,142859500.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_Inventories,-,재고자산,제 9 기 1분기말,,1113675881.0,,제 8 기말,1084662073.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentAssets,-,기타유동자산,제 9 기 1분기말,,362314469.0,,제 8 기말,303639305.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentFinancialAssets,-,기타금융자산,제 9 기 1분기말,,1233113982.0,,제 8 기말,627897500.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,-,단기금융상품,제 9 기 1분기말,,24000000000.0,,제 8 기말,16000000000.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_TradeAndOtherCurrentReceivables,-,매출채권,제 9 기 1분기말,,544152680.0,,제 8 기말,721759466.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentAssets,-,비유동자산,제 9 기 1분기말,,10692220608.0,,제 8 기말,9566503476.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,dart_LongTermLoansGross,-,장기대여금,제 9 기 1분기말,,4041860000.0,,제 8 기말,4271860000.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_IntangibleAssetsOtherThanGoodwill,-,무형자산,제 9 기 1분기말,,994563198.0,,제 8 기말,1030565940.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,-,매각예정자산,제 9 기 1분기말,,49163635.0,,제 8 기말,0.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,-,당기손익-공정가치금융자산,제 9 기 1분기말,,440056096.0,,제 8 기말,440056096.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherNoncurrentFinancialAssets,-,기타금융자산,제 9 기 1분기말,,370527357.0,,제 8 기말,312933905.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_PropertyPlantAndEquipment,-,유형자산,제 9 기 1분기말,,4796050322.0,,제 8 기말,3511087535.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,dart_CapitalSurplus,-,자본잉여금,제 9 기 1분기말,,90006544929.0,,제 8 기말,90006544929.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,-,기타자본항목,제 9 기 1분기말,,2479801106.0,,제 8 기말,2293655493.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_Equity,-,자본총계,제 9 기 1분기말,,38083683077.0,,제 8 기말,40328538886.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_IssuedCapital,-,자본금,제 9 기 1분기말,,7495565500.0,,제 8 기말,7495565500.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_RetainedEarnings,-,결손금,제 9 기 1분기말,,-61898228458.0,,제 8 기말,-59467227036.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_EquityAndLiabilities,-,자본과부채총계,제 9 기 1분기말,,43108327283.0,,제 8 기말,43876809146.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentLiabilities,-,유동부채,제 9 기 1분기말,,1739074354.0,,제 8 기말,1135442807.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentContractLiabilities,-,계약부채,제 9 기 1분기말,,124328946.0,,제 8 기말,151347771.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentLeaseLiabilities,-,리스부채,제 9 기 1분기말,,555479025.0,,제 8 기말,364941224.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentFinancialLiabilities,-,기타금융부채,제 9 기 1분기말,,548261775.0,,제 8 기말,166301203.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentLiabilities,-,기타 유동부채,제 9 기 1분기말,,316954931.0,,제 8 기말,396186742.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_TradeAndOtherCurrentPayables,-,매입채무,제 9 기 1분기말,,194049677.0,,제 8 기말,56665867.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_Liabilities,-,부채총계,제 9 기 1분기말,,5024644206.0,,제 8 기말,3548270260.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentLiabilities,-,비유동부채,제 9 기 1분기말,,3285569852.0,,제 8 기말,2412827453.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,dart_PostemploymentBenefitObligations,-,순확정급여부채,제 9 기 1분기말,,925895727.0,,제 8 기말,846117861.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentLeaseLiabilities,-,리스부채,제 9 기 1분기말,,961451885.0,,제 8 기말,202569213.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentProvisions,-,충당부채,제 9 기 1분기말,,791541837.0,,제 8 기말,802313180.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentProvisionsForEmployeeBenefits,-,장기종업원급여부채,제 9 기 1분기말,,63975002.0,,제 8 기말,57069359.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,-,기타금융부채,제 9 기 1분기말,,542705401.0,,제 8 기말,504757840.0,,,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,dart_OperatingIncomeLoss,-,영업이익,제 9 기 1분기,,-2489405183.0,-2489405183.0,,,제 8 기 1분기,-2290535780.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,dart_OtherGains,-,기타수익,제 9 기 1분기,,1556.0,1556.0,,,제 8 기 1분기,396819.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,dart_OtherLosses,-,기타비용,제 9 기 1분기,,173477043.0,173477043.0,,,제 8 기 1분기,15890165.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,-,판매비와관리비,제 9 기 1분기,,3181478043.0,3181478043.0,,,제 8 기 1분기,2933029976.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_ComprehensiveIncome,-,총포괄손익,제 9 기 1분기,,-2431001422.0,-2431001422.0,,,제 8 기 1분기,-2216920310.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_CostOfSales,-,매출원가,제 9 기 1분기,,379754709.0,379754709.0,,,제 8 기 1분기,389217971.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_BasicEarningsLossPerShare,-,기본주당손실,제 9 기 1분기,,-162.0,-162.0,,,제 8 기 1분기,-165.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_DilutedEarningsLossPerShare,-,희석주당손실,제 9 기 1분기,,-162.0,-162.0,,,제 8 기 1분기,-165.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_FinanceCosts,-,금융비용,제 9 기 1분기,,22580458.0,22580458.0,,,제 8 기 1분기,18147246.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_FinanceIncome,-,금융수익,제 9 기 1분기,,254459706.0,254459706.0,,,제 8 기 1분기,107256062.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_GrossProfit,-,매출총이익,제 9 기 1분기,,692072860.0,692072860.0,,,제 8 기 1분기,642494196.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,-,법인세비용,제 9 기 1분기,,0.0,0.0,,,제 8 기 1분기,0.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_OtherComprehensiveIncome,-,기타포괄손익,제 9 기 1분기,,0.0,0.0,,,제 8 기 1분기,0.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_ProfitLoss,-,당기순이익,제 9 기 1분기,,-2431001422.0,-2431001422.0,,,제 8 기 1분기,-2216920310.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_ProfitLossBeforeTax,-,법인세비용차감전순이익,제 9 기 1분기,,-2431001422.0,-2431001422.0,,,제 8 기 1분기,-2216920310.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_Revenue,-,매출액,제 9 기 1분기,,1071827569.0,1071827569.0,,,제 8 기 1분기,1031712167.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,-,기초현금및현금성자산,제 9 기 1분기,,15063990553.0,,,,제 8 기 1분기,4161370525.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,-,기말현금및현금성자산,제 9 기 1분기,,3897356633.0,,,,제 8 기 1분기,3577933211.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,-,재무활동현금흐름,제 9 기 1분기,,-120130407.0,,,,제 8 기 1분기,31155851097.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,-,리스부채의 상환,제 9 기 1분기,,120130407.0,,,,제 8 기 1분기,129896703.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_ProceedsFromIssuingShares,-,유상증자,제 9 기 1분기,,0.0,,,,제 8 기 1분기,31285747800.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,-,투자활동현금흐름,제 9 기 1분기,,-8794394934.0,,,,제 8 기 1분기,-29919692622.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,dart_DecreaseInGuaranteeDeposits,-,보증금의 감소,제 9 기 1분기,,0.0,,,,제 8 기 1분기,2948000.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,dart_IncreaseInGuaranteeDeposits,-,보증금의 증가,제 9 기 1분기,,401000000.0,,,,제 8 기 1분기,259288000.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,dart_ProceedsFromSalesOfLongTermLoansAndReceivables,-,장기대여금의 감소,제 9 기 1분기,,230000000.0,,,,제 8 기 1분기,0.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,dart_PurchaseOfLongTermFinancialInstruments,-,장기금융상품의 증가,제 9 기 1분기,,0.0,,,,제 8 기 1분기,5883.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,dart_PurchaseOfLongTermLoansAndReceivables,-,장기대여금의 증가,제 9 기 1분기,,0.0,,,,제 8 기 1분기,4937860000.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,dart_PurchaseOfShortTermFinancialInstruments,-,단기금융상품의 순증감,제 9 기 1분기,,8000000000.0,,,,제 8 기 1분기,24500000000.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,-,무형자산의 취득,제 9 기 1분기,,32822848.0,,,,제 8 기 1분기,177604597.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 취득,제 9 기 1분기,,590572086.0,,,,제 8 기 1분기,47882142.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,-,영업활동현금흐름,제 9 기 1분기,,-2252108579.0,,,,제 8 기 1분기,-1819595789.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,-,영업활동으로 인한 자산 부채의 변동,제 9 기 1분기,,-719860078.0,,,,제 8 기 1분기,-291995139.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_AdjustmentsForReconcileProfitLoss,-,조정,제 9 기 1분기,,728003976.0,,,,제 8 기 1분기,534219361.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,-,법인세납부,제 9 기 1분기,,35893310.0,,,,제 8 기 1분기,31447940.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,-,이자지급,제 9 기 1분기,,21248944.0,,,,제 8 기 1분기,17658679.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,-,이자수취,제 9 기 1분기,,227891199.0,,,,제 8 기 1분기,204206918.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_ProfitLoss,-,당기순이익,제 9 기 1분기,,-2431001422.0,,,,제 8 기 1분기,-2216920310.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,-,현금및현금성자산의순증가(감소),제 9 기 1분기,,-11166633920.0,,,,제 8 기 1분기,-583437314.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,별도재무제표 [member],전환우선주의 보통주 전환,제 9 기 1분기,,0.0,,,,제 8 기 1분기,3169609725.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|기타자본구성요소 [구성요소],전환우선주의 보통주 전환,제 9 기 1분기,,0.0,,,,제 8 기 1분기,0.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본잉여금 [구성요소],전환우선주의 보통주 전환,제 9 기 1분기,,0.0,,,,제 8 기 1분기,3016091725.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본금 [구성요소],전환우선주의 보통주 전환,제 9 기 1분기,,0.0,,,,제 8 기 1분기,153518000.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|이익잉여금 [구성요소],전환우선주의 보통주 전환,제 9 기 1분기,,0.0,,,,제 8 기 1분기,0.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,별도재무제표 [member],기초자본,제 9 기 1분기,,40328538886.0,,,,제 8 기 1분기,8677896459.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본금 [구성요소],기초자본,제 9 기 1분기,,7495565500.0,,,,제 8 기 1분기,6183488000.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|이익잉여금 [구성요소],기초자본,제 9 기 1분기,,-59467227036.0,,,,제 8 기 1분기,-49200688645.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|기타자본구성요소 [구성요소],기초자본,제 9 기 1분기,,2293655493.0,,,,제 8 기 1분기,1810536386.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본잉여금 [구성요소],기초자본,제 9 기 1분기,,90006544929.0,,,,제 8 기 1분기,49884560718.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,별도재무제표 [member],자본총계,제 9 기 1분기,,38083683077.0,,,40328538886.0,제 8 기 1분기,41138236940.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|기타자본구성요소 [구성요소],자본총계,제 9 기 1분기,,2479801106.0,,,,제 8 기 1분기,2032439652.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본잉여금 [구성요소],자본총계,제 9 기 1분기,,90006544929.0,,,,제 8 기 1분기,83362400243.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본금 [구성요소],자본총계,제 9 기 1분기,,7495565500.0,,,,제 8 기 1분기,7161006000.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|이익잉여금 [구성요소],자본총계,제 9 기 1분기,,-61898228458.0,,,,제 8 기 1분기,-51417608955.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|기타자본구성요소 [구성요소],주식보상비용,제 9 기 1분기,,186145613.0,,,,제 8 기 1분기,221903266.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,별도재무제표 [member],주식보상비용,제 9 기 1분기,,186145613.0,,,,제 8 기 1분기,221903266.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|이익잉여금 [구성요소],주식보상비용,제 9 기 1분기,,0.0,,,,제 8 기 1분기,0.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본금 [구성요소],주식보상비용,제 9 기 1분기,,0.0,,,,제 8 기 1분기,0.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본잉여금 [구성요소],주식보상비용,제 9 기 1분기,,0.0,,,,제 8 기 1분기,0.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|기타자본구성요소 [구성요소],유상증자,제 9 기 1분기,,0.0,,,,제 8 기 1분기,0.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IssueOfEquity,별도재무제표 [member],유상증자,제 9 기 1분기,,0.0,,,,제 8 기 1분기,31285747800.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|이익잉여금 [구성요소],유상증자,제 9 기 1분기,,0.0,,,,제 8 기 1분기,0.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|자본잉여금 [구성요소],유상증자,제 9 기 1분기,,0.0,,,,제 8 기 1분기,30461747800.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|자본금 [구성요소],유상증자,제 9 기 1분기,,0.0,,,,제 8 기 1분기,824000000.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,별도재무제표 [member],당기순이익,제 9 기 1분기,,-2431001422.0,,,,제 8 기 1분기,-2216920310.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본금 [구성요소],당기순이익,제 9 기 1분기,,0.0,,,,제 8 기 1분기,0.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|기타자본구성요소 [구성요소],당기순이익,제 9 기 1분기,,0.0,,,,제 8 기 1분기,0.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|이익잉여금 [구성요소],당기순이익,제 9 기 1분기,,-2431001422.0,,,,제 8 기 1분기,-2216920310.0,,,20250515001481
+2025,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본잉여금 [구성요소],당기순이익,제 9 기 1분기,,0.0,,,,제 8 기 1분기,0.0,,,20250515001481
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_Assets,-,자산총계,제 9 기 3분기말,,39516849164.0,,제 8 기말,43876809146.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_CurrentAssets,-,유동자산,제 9 기 3분기말,,30458482039.0,,제 8 기말,34310305670.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_CashAndCashEquivalents,-,현금및현금성자산,제 9 기 3분기말,,2382501996.0,,제 8 기말,15063990553.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_CurrentContractAssets,-,계약자산,제 9 기 3분기말,,434290850.0,,제 8 기말,365497273.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_CurrentTaxAssets,-,당기법인세자산,제 9 기 3분기말,,102316270.0,,제 8 기말,142859500.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_Inventories,-,재고자산,제 9 기 3분기말,,1349792894.0,,제 8 기말,1084662073.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentAssets,-,기타유동자산,제 9 기 3분기말,,414975595.0,,제 8 기말,303639305.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentFinancialAssets,-,기타금융자산,제 9 기 3분기말,,788729168.0,,제 8 기말,627897500.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,-,단기금융상품,제 9 기 3분기말,,24000000000.0,,제 8 기말,16000000000.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_TradeAndOtherCurrentReceivables,-,매출채권,제 9 기 3분기말,,985875266.0,,제 8 기말,721759466.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentAssets,-,비유동자산,제 9 기 3분기말,,9058367125.0,,제 8 기말,9566503476.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,dart_LongTermLoansGross,-,장기대여금,제 9 기 3분기말,,3103200000.0,,제 8 기말,4271860000.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_IntangibleAssetsOtherThanGoodwill,-,무형자산,제 9 기 3분기말,,872107431.0,,제 8 기말,1030565940.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,-,당기손익-공정가치금융자산,제 9 기 3분기말,,440056096.0,,제 8 기말,440056096.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_OtherNoncurrentFinancialAssets,-,기타금융자산,제 9 기 3분기말,,405117470.0,,제 8 기말,312933905.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_PropertyPlantAndEquipment,-,유형자산,제 9 기 3분기말,,4237886128.0,,제 8 기말,3511087535.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,dart_CapitalSurplus,-,자본잉여금,제 9 기 3분기말,,91567724603.0,,제 8 기말,90006544929.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,-,기타자본항목,제 9 기 3분기말,,2087603485.0,,제 8 기말,2293655493.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_Equity,-,자본총계,제 9 기 3분기말,,34692378246.0,,제 8 기말,40328538886.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_IssuedCapital,-,자본금,제 9 기 3분기말,,7591565500.0,,제 8 기말,7495565500.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_RetainedEarnings,-,결손금,제 9 기 3분기말,,-66554515342.0,,제 8 기말,-59467227036.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_EquityAndLiabilities,-,자본과부채총계,제 9 기 3분기말,,39516849164.0,,제 8 기말,43876809146.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_CurrentLiabilities,-,유동부채,제 9 기 3분기말,,1678030383.0,,제 8 기말,1135442807.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_CurrentContractLiabilities,-,계약부채,제 9 기 3분기말,,117848946.0,,제 8 기말,151347771.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_CurrentLeaseLiabilities,-,리스부채,제 9 기 3분기말,,504807504.0,,제 8 기말,364941224.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentFinancialLiabilities,-,기타금융부채,제 9 기 3분기말,,426012110.0,,제 8 기말,166301203.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentLiabilities,-,기타 유동부채,제 9 기 3분기말,,458718603.0,,제 8 기말,396186742.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_TradeAndOtherCurrentPayables,-,매입채무,제 9 기 3분기말,,170643220.0,,제 8 기말,56665867.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_Liabilities,-,부채총계,제 9 기 3분기말,,4824470918.0,,제 8 기말,3548270260.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentLiabilities,-,비유동부채,제 9 기 3분기말,,3146440535.0,,제 8 기말,2412827453.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,dart_PostemploymentBenefitObligations,-,순확정급여부채,제 9 기 3분기말,,1085451459.0,,제 8 기말,846117861.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentLeaseLiabilities,-,리스부채,제 9 기 3분기말,,850319796.0,,제 8 기말,202569213.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentProvisions,-,충당부채,제 9 기 3분기말,,541465016.0,,제 8 기말,802313180.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentProvisionsForEmployeeBenefits,-,장기종업원급여부채,제 9 기 3분기말,,77786288.0,,제 8 기말,57069359.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,-,기타금융부채,제 9 기 3분기말,,591417976.0,,제 8 기말,504757840.0,,,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,dart_OperatingIncomeLoss,-,영업이익,제 9 기 3분기,,-2840429627.0,-7506431464.0,,,제 8 기 3분기,-2388269314.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,dart_OtherGains,-,기타수익,제 9 기 3분기,,13731.0,23154931.0,,,제 8 기 3분기,27135767.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,dart_OtherLosses,-,기타비용,제 9 기 3분기,,10561.0,181543481.0,,,제 8 기 3분기,83084134.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,-,판매비와관리비,제 9 기 3분기,,3385295121.0,9681438655.0,,,제 8 기 3분기,3021368919.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_ComprehensiveIncome,-,총포괄손익,제 9 기 3분기,,-2682603276.0,-7087288306.0,,,제 8 기 3분기,-2168355334.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_CostOfSales,-,매출원가,제 9 기 3분기,,261073738.0,1193008997.0,,,제 8 기 3분기,312389581.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_BasicEarningsLossPerShare,-,기본주당손실,제 9 기 3분기,,-177.0,-469.0,,,제 8 기 3분기,-145.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_DilutedEarningsLossPerShare,-,희석주당손실,제 9 기 3분기,,-177.0,-469.0,,,제 8 기 3분기,-145.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_FinanceCosts,-,금융비용,제 9 기 3분기,,36230476.0,97022299.0,,,제 8 기 3분기,19181608.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_FinanceIncome,-,금융수익,제 9 기 3분기,,194053657.0,674554007.0,,,제 8 기 3분기,295043955.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_GrossProfit,-,매출총이익,제 9 기 3분기,,544865494.0,2175007191.0,,,제 8 기 3분기,633099605.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,-,법인세비용,제 9 기 3분기,,0.0,0.0,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_OtherComprehensiveIncome,-,기타포괄손익,제 9 기 3분기,,0.0,0.0,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_ProfitLoss,-,당기순이익,제 9 기 3분기,,-2682603276.0,-7087288306.0,,,제 8 기 3분기,-2168355334.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_ProfitLossBeforeTax,-,법인세비용차감전순이익,제 9 기 3분기,,-2682603276.0,-7087288306.0,,,제 8 기 3분기,-2168355334.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CIS,ifrs-full_Revenue,-,매출액,제 9 기 3분기,,805939232.0,3368016188.0,,,제 8 기 3분기,945489186.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,-,기초현금및현금성자산,제 9 기 3분기,,15063990553.0,,,,제 8 기 3분기,4161370525.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,-,기말현금및현금성자산,제 9 기 3분기,,2382501996.0,,,,제 8 기 3분기,13990055533.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,-,재무활동현금흐름,제 9 기 3분기,,508897929.0,,,,제 8 기 3분기,30827464081.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,-,리스부채의 상환,제 9 기 3분기,,378674671.0,,,,제 8 기 3분기,457703479.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,dart_ProceedsFromExerciseOfShareOptions,-,주식선택권의 행사,제 9 기 3분기,,887572600.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_ProceedsFromIssuingShares,-,유상증자,제 9 기 3분기,,0.0,,,,제 8 기 3분기,31285167560.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,-,투자활동현금흐름,제 9 기 3분기,,-7571230727.0,,,,제 8 기 3분기,-14954751020.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,dart_DecreaseInGuaranteeDeposits,-,보증금의 감소,제 9 기 3분기,,350260000.0,,,,제 8 기 3분기,158740000.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,dart_IncreaseInGuaranteeDeposits,-,보증금의 증가,제 9 기 3분기,,431000000.0,,,,제 8 기 3분기,275428000.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,dart_ProceedsFromSalesOfLongTermFinancialInstruments,-,장기금융상품의 처분,제 9 기 3분기,,0.0,,,,제 8 기 3분기,98736.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,dart_ProceedsFromSalesOfLongTermLoansAndReceivables,-,장기대여금의 감소,제 9 기 3분기,,1168660000.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,dart_PurchaseOfLongTermLoansAndReceivables,-,장기대여금의 증가,제 9 기 3분기,,0.0,,,,제 8 기 3분기,4457860000.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,dart_PurchaseOfShortTermFinancialInstruments,-,단기금융상품의 증가,제 9 기 3분기,,8000000000.0,,,,제 8 기 3분기,8000000000.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 처분,제 9 기 3분기,,79445455.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,-,무형자산의 취득,제 9 기 3분기,,49566283.0,,,,제 8 기 3분기,517247890.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 취득,제 9 기 3분기,,689029899.0,,,,제 8 기 3분기,1423097770.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_PurchasesFairValueMeasurementAssets,-,공정가치 측정 금융자산-비상장주식의 증가,제 9 기 3분기,,0.0,,,,제 8 기 3분기,-439956096.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,-,영업활동현금흐름,제 9 기 3분기,,-5620119463.0,,,,제 8 기 3분기,-6044028053.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,-,영업활동으로 인한 자산 부채의 변동,제 9 기 3분기,,-923371148.0,,,,제 8 기 3분기,-1206690032.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_AdjustmentsForReconcileProfitLoss,-,조정,제 9 기 3분기,,1782669764.0,,,,제 8 기 3분기,1187371120.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,-,법인세납부,제 9 기 3분기,,-40543230.0,,,,제 8 기 3분기,84733320.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,-,이자지급,제 9 기 3분기,,91907879.0,,,,제 8 기 3분기,58476372.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,-,이자수취,제 9 기 3분기,,659234876.0,,,,제 8 기 3분기,775092973.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_ProfitLoss,-,당기순이익,제 9 기 3분기,,-2682603276.0,,,,제 8 기 3분기,-2168355334.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,-,현금및현금성자산에 대한 환율변동효과,제 9 기 3분기,,963704.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,-,현금및현금성자산의순증가(감소),제 9 기 3분기,,-12682452261.0,,,,제 8 기 3분기,9828685008.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,별도재무제표 [member],전환우선주의 보통주 전환,제 9 기 3분기,,0.0,,,,제 8 기 3분기,9604224200.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|기타자본구성요소 [구성요소],전환우선주의 보통주 전환,제 9 기 3분기,,0.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|이익잉여금 [구성요소],전환우선주의 보통주 전환,제 9 기 3분기,,0.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본금 [구성요소],전환우선주의 보통주 전환,제 9 기 3분기,,0.0,,,,제 8 기 3분기,465202500.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,dart_CompoundFinancialInstrumentConversion,자본 [구성요소]|자본잉여금 [구성요소],전환우선주의 보통주 전환,제 9 기 3분기,,0.0,,,,제 8 기 3분기,9139021700.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,별도재무제표 [member],기초자본,제 9 기 3분기,,40328538886.0,,,,제 8 기 3분기,8677896459.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|기타자본구성요소 [구성요소],기초자본,제 9 기 3분기,,2293655493.0,,,,제 8 기 3분기,1810536386.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본잉여금 [구성요소],기초자본,제 9 기 3분기,,90006544929.0,,,,제 8 기 3분기,49884560718.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본금 [구성요소],기초자본,제 9 기 3분기,,7495565500.0,,,,제 8 기 3분기,6183488000.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|이익잉여금 [구성요소],기초자본,제 9 기 3분기,,-59467227036.0,,,,제 8 기 3분기,-49200688645.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|기타자본구성요소 [구성요소],주식선택권의 행사,제 9 기 3분기,,-769607074.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,별도재무제표 [member],주식선택권의 행사,제 9 기 3분기,,887572600.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|이익잉여금 [구성요소],주식선택권의 행사,제 9 기 3분기,,0.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|자본금 [구성요소],주식선택권의 행사,제 9 기 3분기,,96000000.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|자본잉여금 [구성요소],주식선택권의 행사,제 9 기 3분기,,1561179674.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,별도재무제표 [member],자본총계,제 9 기 3분기,,34692378246.0,,,40328538886.0,제 8 기 3분기,43341992536.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|기타자본구성요소 [구성요소],자본총계,제 9 기 3분기,,2087603485.0,,,,제 8 기 3분기,2241252885.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|이익잉여금 [구성요소],자본총계,제 9 기 3분기,,-66554515342.0,,,,제 8 기 3분기,-55857281067.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본금 [구성요소],자본총계,제 9 기 3분기,,7591565500.0,,,,제 8 기 3분기,7472690500.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본잉여금 [구성요소],자본총계,제 9 기 3분기,,91567724603.0,,,,제 8 기 3분기,89485330218.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|기타자본구성요소 [구성요소],주식보상비용,제 9 기 3분기,,563555066.0,,,,제 8 기 3분기,430716499.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,별도재무제표 [member],주식보상비용,제 9 기 3분기,,563555066.0,,,,제 8 기 3분기,430716499.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|이익잉여금 [구성요소],주식보상비용,제 9 기 3분기,,0.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본잉여금 [구성요소],주식보상비용,제 9 기 3분기,,0.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본금 [구성요소],주식보상비용,제 9 기 3분기,,0.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IssueOfEquity,별도재무제표 [member],유상증자,제 9 기 3분기,,0.0,,,,제 8 기 3분기,31285747800.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|기타자본구성요소 [구성요소],유상증자,제 9 기 3분기,,0.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|이익잉여금 [구성요소],유상증자,제 9 기 3분기,,0.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|자본금 [구성요소],유상증자,제 9 기 3분기,,0.0,,,,제 8 기 3분기,824000000.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_IssueOfEquity,자본 [구성요소]|자본잉여금 [구성요소],유상증자,제 9 기 3분기,,0.0,,,,제 8 기 3분기,30461747800.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,별도재무제표 [member],당기순이익,제 9 기 3분기,,-2682603276.0,,,,제 8 기 3분기,-2168355334.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본금 [구성요소],당기순이익,제 9 기 3분기,,0.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|기타자본구성요소 [구성요소],당기순이익,제 9 기 3분기,,0.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|이익잉여금 [구성요소],당기순이익,제 9 기 3분기,,-7087288306.0,,,,제 8 기 3분기,-6656592422.0,,,20251114002138
+2025,11014,3분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본잉여금 [구성요소],당기순이익,제 9 기 3분기,,0.0,,,,제 8 기 3분기,0.0,,,20251114002138
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_Assets,-,자산총계,제 10 기 반기말,,36265711832.0,,제 9 기말,37033858938.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentAssets,-,유동 자산,제 10 기 반기말,,28921619906.0,,제 9 기말,28624495235.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_CashAndCashEquivalents,-,현금및현금성자산,제 10 기 반기말,,5052568919.0,,제 9 기말,3150701424.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentContractAssets,-,계약자산,제 10 기 반기말,,623208131.0,,제 9 기말,451480481.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentTaxAssets,-,당기 법인세자산,제 10 기 반기말,,62424570.0,,제 9 기말,118424090.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_Inventories,-,재고자산,제 10 기 반기말,,1307772683.0,,제 9 기말,1340394674.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherCurrentAssets,-,기타 유동 자산,제 10 기 반기말,,435876561.0,,제 9 기말,319864472.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherCurrentFinancialAssets,-,기타금융자산,제 10 기 반기말,,972956042.0,,제 9 기말,520400394.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,-,단기금융상품,제 10 기 반기말,,20010000000.0,,제 9 기말,22000000000.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_TradeAndOtherCurrentReceivables,-,매출채권,제 10 기 반기말,,456813000.0,,제 9 기말,723229700.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentAssets,-,비유동 자산,제 10 기 반기말,,7344091926.0,,제 9 기말,8409363703.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,dart_LongTermLoansGross,-,장기대여금,제 10 기 반기말,,1923200000.0,,제 9 기말,2643200000.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_IntangibleAssetsOtherThanGoodwill,-,무형자산,제 10 기 반기말,,793024777.0,,제 9 기말,870189354.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,-,당기손익-공정가치금융자산,제 10 기 반기말,,100000.0,,제 9 기말,440056096.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherNoncurrentFinancialAssets,-,기타금융자산,제 10 기 반기말,,604610352.0,,제 9 기말,385590703.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_PropertyPlantAndEquipment,-,유형자산,제 10 기 반기말,,4023156797.0,,제 9 기말,4070327550.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,dart_CapitalSurplus,-,자본잉여금,제 10 기 반기말,,94049306866.0,,제 9 기말,91979443585.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,-,기타자본항목,제 10 기 반기말,,1999075089.0,,제 9 기말,2136150946.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_Equity,-,자본총계,제 10 기 반기말,,30981556212.0,,제 9 기말,32626209747.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_IssuedCapital,-,자본금,제 10 기 반기말,,7696490500.0,,제 9 기말,7609026500.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_RetainedEarnings,-,결손금,제 10 기 반기말,,-72763316243.0,,제 9 기말,-69098411284.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_EquityAndLiabilities,-,자본과부채총계,제 10 기 반기말,,36265711832.0,,제 9 기말,37033858938.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentLiabilities,-,유동 부채,제 10 기 반기말,,1892351734.0,,제 9 기말,1221869609.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentContractLiabilities,-,계약부채,제 10 기 반기말,,136889882.0,,제 9 기말,126589878.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_CurrentLeaseLiabilities,-,리스부채,제 10 기 반기말,,627037470.0,,제 9 기말,444153430.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherCurrentFinancialLiabilities,-,기타금융부채,제 10 기 반기말,,657182936.0,,제 9 기말,237270417.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherCurrentLiabilities,-,기타 유동 부채,제 10 기 반기말,,397972503.0,,제 9 기말,397508476.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_TradeAndOtherCurrentPayables,-,매입채무,제 10 기 반기말,,73268943.0,,제 9 기말,16347408.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_Liabilities,-,부채총계,제 10 기 반기말,,5284155620.0,,제 9 기말,4407649191.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentLiabilities,-,비유동 부채,제 10 기 반기말,,3391803886.0,,제 9 기말,3185779582.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,dart_PostemploymentBenefitObligations,-,순확정급여부채,제 10 기 반기말,,1205165701.0,,제 9 기말,1052950915.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentLeaseLiabilities,-,리스부채,제 10 기 반기말,,745559671.0,,제 9 기말,775735020.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentProvisions,-,충당부채,제 10 기 반기말,,450127760.0,,제 9 기말,483591652.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_NoncurrentProvisionsForEmployeeBenefits,-,장기종업원급여부채,제 10 기 반기말,,80136377.0,,제 9 기말,67073237.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,-,기타금융부채,제 10 기 반기말,,910814377.0,,제 9 기말,806428758.0,,,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CIS,dart_OperatingIncomeLoss,-,영업손실,제 10 기 반기,,-3485917720.0,-6163089603.0,,,제 9 기 반기,-2176596654.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CIS,dart_OtherGains,-,기타수익,제 10 기 반기,,183738.0,185300.0,,,제 9 기 반기,23139644.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CIS,dart_OtherLosses,-,기타비용,제 10 기 반기,,11893627.0,15004455.0,,,제 9 기 반기,8055877.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,-,판매비와관리비,제 10 기 반기,,3946607911.0,6946217860.0,,,제 9 기 반기,3114665491.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CIS,ifrs-full_ComprehensiveIncome,-,총포괄손익,제 10 기 반기,,-1138909917.0,-3664904959.0,,,제 9 기 반기,-1973683608.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CIS,ifrs-full_CostOfSales,-,매출원가,제 10 기 반기,,327612302.0,512225468.0,,,제 9 기 반기,552180550.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CIS,ifrs-full_BasicEarningsLossPerShare,-,기본 및 희석주당손실,제 10 기 반기,,-74.0,-240.0,,,제 9 기 반기,-130.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CIS,ifrs-full_FinanceCosts,-,금융비용,제 10 기 반기,,33820166.0,65070903.0,,,제 9 기 반기,38211365.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CIS,ifrs-full_FinanceIncome,-,금융수익,제 10 기 반기,,2392537858.0,2578074702.0,,,제 9 기 반기,226040644.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CIS,ifrs-full_GrossProfit,-,매출총이익,제 10 기 반기,,460690191.0,783128257.0,,,제 9 기 반기,938068837.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,-,법인세비용,제 10 기 반기,,0.0,0.0,,,제 9 기 반기,0.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CIS,ifrs-full_OtherComprehensiveIncome,-,기타포괄손익,제 10 기 반기,,0.0,0.0,,,제 9 기 반기,0.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CIS,ifrs-full_ProfitLoss,-,당기순손실,제 10 기 반기,,-1138909917.0,-3664904959.0,,,제 9 기 반기,-1973683608.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CIS,ifrs-full_ProfitLossBeforeTax,-,법인세비용차감전순손실,제 10 기 반기,,-1138909917.0,-3664904959.0,,,제 9 기 반기,-1973683608.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CIS,ifrs-full_Revenue,-,매출액,제 10 기 반기,,788302493.0,1295353725.0,,,제 9 기 반기,1490249387.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,-,기초현금및현금성자산,제 10 기 반기,,3150701424.0,,,,제 9 기 반기,15063990553.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,-,기말현금및현금성자산,제 10 기 반기,,5052568919.0,,,,제 9 기 반기,3710354626.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,dart_ChangesInForeignExchangeRates,-,환율변동효과,제 10 기 반기,,-6222025.0,,,,제 9 기 반기,0.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,-,재무활동현금흐름,제 10 기 반기,,1161459931.0,,,,제 9 기 반기,640971762.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,-,리스부채의 상환,제 10 기 반기,,267968033.0,,,,제 9 기 반기,246600838.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,dart_ProceedsFromExerciseOfShareOptions,-,주식선택권행사,제 10 기 반기,,1429427964.0,,,,제 9 기 반기,887572600.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,-,투자활동현금흐름,제 10 기 반기,,5147684347.0,,,,제 9 기 반기,-7985405572.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,dart_DecreaseInGuaranteeDeposits,-,보증금의 감소,제 10 기 반기,,2310000.0,,,,제 9 기 반기,350260000.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,dart_IncreaseInGuaranteeDeposits,-,보증금의 증가,제 10 기 반기,,0.0,,,,제 9 기 반기,431000000.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,dart_ProceedsFromSalesOfLongTermLoansAndReceivables,-,장기대여금의 감소,제 10 기 반기,,720000000.0,,,,제 9 기 반기,676660000.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,dart_ProceedsFromSalesOfShortTermFinancialInstruments,-,단기금융상품의 감소,제 10 기 반기,,1990000000.0,,,,제 9 기 반기,0.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,dart_PurchaseOfShortTermFinancialInstruments,-,단기금융상품의 증가,제 10 기 반기,,0.0,,,,제 9 기 반기,8000000000.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,ifrs-full_AdjustmentsForDecreaseIncreaseInFinancialAssetsMeasuredAtFairValueThroughProfitOrLoss,-,당기손익-공정가치 측정 금융자산의 감소,제 10 기 반기,,2611330716.0,,,,제 9 기 반기,0.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,ifrs-full_GainsOnDisposalsOfPropertyPlantAndEquipment,-,유형자산의 처분,제 10 기 반기,,0.0,,,,제 9 기 반기,79445455.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,-,무형자산의 취득,제 10 기 반기,,69150000.0,,,,제 9 기 반기,46771220.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 취득,제 10 기 반기,,106806369.0,,,,제 9 기 반기,613999807.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,-,영업활동현금흐름,제 10 기 반기,,-4413498808.0,,,,제 9 기 반기,-4009202117.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,-,영업활동으로 인한 자산 부채의 변동,제 10 기 반기,,-164470883.0,,,,제 9 기 반기,-1230986463.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,ifrs-full_AdjustmentsForReconcileProfitLoss,-,조정,제 10 기 반기,,-859598104.0,,,,제 9 기 반기,1231372972.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,-,법인세환급(납부),제 10 기 반기,,-55999520.0,,,,제 9 기 반기,-85489730.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,-,이자지급,제 10 기 반기,,62340651.0,,,,제 9 기 반기,57757064.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,-,이자수취,제 10 기 반기,,281816269.0,,,,제 9 기 반기,367363738.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,ifrs-full_ProfitLoss,-,당기순손실,제 10 기 반기,,-1138909917.0,,,,제 9 기 반기,-1973683608.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,-,현금및현금성자산의 증가(감소),제 10 기 반기,,1895645470.0,,,,제 9 기 반기,-11353635927.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,dart_EquityAtBeginningOfPeriod,별도재무제표 [member],기초자본,제 10 기 반기,,32626209747.0,,,,제 9 기 반기,40328538886.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본|자본잉여금 [구성요소],기초자본,제 10 기 반기,,91979443585.0,,,,제 9 기 반기,90006544929.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본|자본금 [구성요소],기초자본,제 10 기 반기,,7609026500.0,,,,제 9 기 반기,7495565500.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본|이익잉여금 [구성요소],기초자본,제 10 기 반기,,-69098411284.0,,,,제 9 기 반기,-59467227036.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본|기타자본항목,기초자본,제 10 기 반기,,2136150946.0,,,,제 9 기 반기,2293655493.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본|자본금 [구성요소],주식선택권행사,제 10 기 반기,,87464000.0,,,,제 9 기 반기,96000000.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본|이익잉여금 [구성요소],주식선택권행사,제 10 기 반기,,0.0,,,,제 9 기 반기,0.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본|기타자본항목,주식선택권행사,제 10 기 반기,,-727899317.0,,,,제 9 기 반기,769607074.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,별도재무제표 [member],주식선택권행사,제 10 기 반기,,1429427964.0,,,,제 9 기 반기,887572600.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본|자본잉여금 [구성요소],주식선택권행사,제 10 기 반기,,2069863281.0,,,,제 9 기 반기,1561179674.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,ifrs-full_Equity,자본|자본금 [구성요소],자본총계,제 10 기 반기,,7696490500.0,,,,제 9 기 반기,7591565500.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,ifrs-full_Equity,자본|이익잉여금 [구성요소],자본총계,제 10 기 반기,,-72763316243.0,,,,제 9 기 반기,-63871912066.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,ifrs-full_Equity,자본|기타자본항목,자본총계,제 10 기 반기,,1999075089.0,,,,제 9 기 반기,1903347947.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,ifrs-full_Equity,별도재무제표 [member],자본총계,제 10 기 반기,,30981556212.0,,,32626209747.0,제 9 기 반기,37190725984.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,ifrs-full_Equity,자본|자본잉여금 [구성요소],자본총계,제 10 기 반기,,94049306866.0,,,,제 9 기 반기,91567724603.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,별도재무제표 [member],주식보상비용,제 10 기 반기,,590823460.0,,,,제 9 기 반기,379299528.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본|기타자본항목,주식보상비용,제 10 기 반기,,590823460.0,,,,제 9 기 반기,379299528.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본|이익잉여금 [구성요소],주식보상비용,제 10 기 반기,,0.0,,,,제 9 기 반기,0.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본|자본금 [구성요소],주식보상비용,제 10 기 반기,,0.0,,,,제 9 기 반기,0.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본|자본잉여금 [구성요소],주식보상비용,제 10 기 반기,,0.0,,,,제 9 기 반기,0.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,ifrs-full_ProfitLoss,자본|자본금 [구성요소],당기순손실,제 10 기 반기,,0.0,,,,제 9 기 반기,0.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,ifrs-full_ProfitLoss,자본|이익잉여금 [구성요소],당기순손실,제 10 기 반기,,-3664904959.0,,,,제 9 기 반기,-4404685030.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,ifrs-full_ProfitLoss,자본|기타자본항목,당기순손실,제 10 기 반기,,0.0,,,,제 9 기 반기,0.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,ifrs-full_ProfitLoss,별도재무제표 [member],당기순손실,제 10 기 반기,,-1138909917.0,,,,제 9 기 반기,-1973683608.0,,,20260814003038
+2026,11012,반기보고서,half_year,OFS,SCE,ifrs-full_ProfitLoss,자본|자본잉여금 [구성요소],당기순손실,제 10 기 반기,,0.0,,,,제 9 기 반기,0.0,,,20260814003038
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_Assets,-,자산총계,제 10 기 1분기말,,35359602004.0,,제 9 기말,37033858938.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentAssets,-,유동자산,제 10 기 1분기말,,27446780841.0,,제 9 기말,28624495235.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CashAndCashEquivalents,-,현금및현금성자산,제 10 기 1분기말,,2613825022.0,,제 9 기말,3150701424.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentContractAssets,-,계약자산,제 10 기 1분기말,,603595170.0,,제 9 기말,451480481.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentTaxAssets,-,당기법인세자산,제 10 기 1분기말,,156743820.0,,제 9 기말,118424090.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_Inventories,-,재고자산,제 10 기 1분기말,,1423429846.0,,제 9 기말,1340394674.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentAssets,-,기타유동자산,제 10 기 1분기말,,307862093.0,,제 9 기말,319864472.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentFinancialAssets,-,기타금융자산,제 10 기 1분기말,,882044890.0,,제 9 기말,520400394.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,-,단기금융상품,제 10 기 1분기말,,21000000000.0,,제 9 기말,22000000000.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_TradeAndOtherCurrentReceivables,-,매출채권,제 10 기 1분기말,,459280000.0,,제 9 기말,723229700.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentAssets,-,비유동자산,제 10 기 1분기말,,7912821163.0,,제 9 기말,8409363703.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,dart_LongTermLoansGross,-,장기대여금,제 10 기 1분기말,,2173200000.0,,제 9 기말,2643200000.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_IntangibleAssetsOtherThanGoodwill,-,무형자산,제 10 기 1분기말,,818620239.0,,제 9 기말,870189354.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncome,-,당기손익-공정가치금융자산,제 10 기 1분기말,,440056096.0,,제 9 기말,440056096.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherNoncurrentFinancialAssets,-,기타금융자산,제 10 기 1분기말,,409711444.0,,제 9 기말,385590703.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_PropertyPlantAndEquipment,-,유형자산,제 10 기 1분기말,,4071233384.0,,제 9 기말,4070327550.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,dart_CapitalSurplus,-,자본잉여금,제 10 기 1분기말,,92316687992.0,,제 9 기말,91979443585.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,-,기타자본항목,제 10 기 1분기말,,2196001220.0,,제 9 기말,2136150946.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_Equity,-,자본총계,제 10 기 1분기말,,30511848386.0,,제 9 기말,32626209747.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_IssuedCapital,-,자본금,제 10 기 1분기말,,7623565500.0,,제 9 기말,7609026500.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_RetainedEarnings,-,결손금,제 10 기 1분기말,,-71624406326.0,,제 9 기말,-69098411284.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_EquityAndLiabilities,-,자본과부채총계,제 10 기 1분기말,,35359602004.0,,제 9 기말,37033858938.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentLiabilities,-,유동부채,제 10 기 1분기말,,1541561625.0,,제 9 기말,1221869609.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentContractLiabilities,-,계약부채,제 10 기 1분기말,,145339880.0,,제 9 기말,126589878.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_CurrentLeaseLiabilities,-,리스부채,제 10 기 1분기말,,597061942.0,,제 9 기말,444153430.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentFinancialLiabilities,-,기타금융부채,제 10 기 1분기말,,295610924.0,,제 9 기말,237270417.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherCurrentLiabilities,-,기타 유동부채,제 10 기 1분기말,,431759254.0,,제 9 기말,397508476.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_TradeAndOtherCurrentPayables,-,매입채무,제 10 기 1분기말,,71789625.0,,제 9 기말,16347408.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_Liabilities,-,부채총계,제 10 기 1분기말,,4847753618.0,,제 9 기말,4407649191.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentLiabilities,-,비유동부채,제 10 기 1분기말,,3306191993.0,,제 9 기말,3185779582.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,dart_PostemploymentBenefitObligations,-,순확정급여부채,제 10 기 1분기말,,1129058308.0,,제 9 기말,1052950915.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentLeaseLiabilities,-,리스부채,제 10 기 1분기말,,806880564.0,,제 9 기말,775735020.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentProvisions,-,충당부채,제 10 기 1분기말,,434807229.0,,제 9 기말,483591652.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_NoncurrentProvisionsForEmployeeBenefits,-,장기종업원급여부채,제 10 기 1분기말,,73604807.0,,제 9 기말,67073237.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,-,기타금융부채,제 10 기 1분기말,,861841085.0,,제 9 기말,806428758.0,,,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,dart_OperatingIncomeLoss,-,영업이익,제 10 기 1분기,,-2677171883.0,-2677171883.0,,,제 9 기 1분기,-2489405183.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,dart_OtherGains,-,기타수익,제 10 기 1분기,,1562.0,1562.0,,,제 9 기 1분기,1556.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,dart_OtherLosses,-,기타비용,제 10 기 1분기,,3110828.0,3110828.0,,,제 9 기 1분기,173477043.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,-,판매비와관리비,제 10 기 1분기,,2999609949.0,2999609949.0,,,제 9 기 1분기,3181478043.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_ComprehensiveIncome,-,총포괄손익,제 10 기 1분기,,-2525995042.0,-2525995042.0,,,제 9 기 1분기,-2431001422.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_CostOfSales,-,매출원가,제 10 기 1분기,,184613166.0,184613166.0,,,제 9 기 1분기,379754709.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_BasicEarningsLossPerShare,-,기본주당손실,제 10 기 1분기,,-166.0,-166.0,,,제 9 기 1분기,-162.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_DilutedEarningsLossPerShare,-,희석주당손실,제 10 기 1분기,,-166.0,-166.0,,,제 9 기 1분기,-162.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_FinanceCosts,-,금융비용,제 10 기 1분기,,31250737.0,31250737.0,,,제 9 기 1분기,22580458.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_FinanceIncome,-,금융수익,제 10 기 1분기,,185536844.0,185536844.0,,,제 9 기 1분기,254459706.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_GrossProfit,-,매출총이익,제 10 기 1분기,,322438066.0,322438066.0,,,제 9 기 1분기,692072860.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,-,법인세비용,제 10 기 1분기,,0.0,0.0,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_OtherComprehensiveIncome,-,기타포괄손익,제 10 기 1분기,,0.0,0.0,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_ProfitLoss,-,당기순이익,제 10 기 1분기,,-2525995042.0,-2525995042.0,,,제 9 기 1분기,-2431001422.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_ProfitLossBeforeTax,-,법인세비용차감전순이익,제 10 기 1분기,,-2525995042.0,-2525995042.0,,,제 9 기 1분기,-2431001422.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CIS,ifrs-full_Revenue,-,매출액,제 10 기 1분기,,507051232.0,507051232.0,,,제 9 기 1분기,1071827569.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,-,기초현금및현금성자산,제 10 기 1분기,,3150701424.0,,,,제 9 기 1분기,15063990553.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,-,기말현금및현금성자산,제 10 기 1분기,,2613825022.0,,,,제 9 기 1분기,3897356633.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,dart_ChangesInForeignExchangeRates,-,환율변동효과,제 10 기 1분기,,2890026.0,,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,-,재무활동현금흐름,제 10 기 1분기,,72631760.0,,,,제 9 기 1분기,-120130407.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,-,리스부채의 상환,제 10 기 1분기,,164897904.0,,,,제 9 기 1분기,120130407.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,dart_ProceedsFromExerciseOfShareOptions,-,주식선택권행사,제 10 기 1분기,,237529664.0,,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,-,투자활동현금흐름,제 10 기 1분기,,1421077196.0,,,,제 9 기 1분기,-8794394934.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,dart_DecreaseInGuaranteeDeposits,-,보증금의 감소,제 10 기 1분기,,2310000.0,,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,dart_IncreaseInGuaranteeDeposits,-,보증금의 증가,제 10 기 1분기,,0.0,,,,제 9 기 1분기,401000000.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,dart_ProceedsFromSalesOfLongTermLoansAndReceivables,-,장기대여금의 감소,제 10 기 1분기,,470000000.0,,,,제 9 기 1분기,230000000.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,dart_ProceedsFromSalesOfShortTermFinancialInstruments,-,단기금융상품의 처분,제 10 기 1분기,,1000000000.0,,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,dart_PurchaseOfShortTermFinancialInstruments,-,단기금융상품의 증가,제 10 기 1분기,,,,,,제 9 기 1분기,8000000000.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,-,무형자산의 취득,제 10 기 1분기,,21500000.0,,,,제 9 기 1분기,32822848.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,-,유형자산의 취득,제 10 기 1분기,,29732804.0,,,,제 9 기 1분기,590572086.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,-,영업활동현금흐름,제 10 기 1분기,,-2027695332.0,,,,제 9 기 1분기,-2252108579.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,-,영업활동으로 인한 자산 부채의 변동,제 10 기 1분기,,-47666366.0,,,,제 9 기 1분기,-719860078.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_AdjustmentsForReconcileProfitLoss,-,조정,제 10 기 1분기,,557388662.0,,,,제 9 기 1분기,728003976.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,-,법인세납부,제 10 기 1분기,,38319730.0,,,,제 9 기 1분기,35893310.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,-,이자지급,제 10 기 1분기,,0.0,,,,제 9 기 1분기,21248944.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,-,이자수취,제 10 기 1분기,,26897144.0,,,,제 9 기 1분기,227891199.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_ProfitLoss,-,당기순이익,제 10 기 1분기,,-2525995042.0,,,,제 9 기 1분기,-2431001422.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,-,현금및현금성자산의순증가(감소),제 10 기 1분기,,-533986376.0,,,,제 9 기 1분기,-11166633920.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,별도재무제표 [member],기초자본,제 10 기 1분기,,32626209747.0,,,,제 9 기 1분기,40328538886.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본잉여금 [구성요소],기초자본,제 10 기 1분기,,91979443585.0,,,,제 9 기 1분기,90006544929.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|자본금 [구성요소],기초자본,제 10 기 1분기,,7609026500.0,,,,제 9 기 1분기,7495565500.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|기타자본항목,기초자본,제 10 기 1분기,,2136150946.0,,,,제 9 기 1분기,2293655493.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,dart_EquityAtBeginningOfPeriod,자본 [구성요소]|결손금,기초자본,제 10 기 1분기,,-69098411284.0,,,,제 9 기 1분기,-59467227036.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|자본금 [구성요소],주식선택권행사,제 10 기 1분기,,14539000.0,,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|기타자본항목,주식선택권행사,제 10 기 1분기,,-114253743.0,,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|결손금,주식선택권행사,제 10 기 1분기,,0.0,,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,별도재무제표 [member],주식선택권행사,제 10 기 1분기,,237529664.0,,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,dart_ProceedsFromExerciseOfShareOptions,자본 [구성요소]|자본잉여금 [구성요소],주식선택권행사,제 10 기 1분기,,337244407.0,,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본금 [구성요소],자본총계,제 10 기 1분기,,7623565500.0,,,,제 9 기 1분기,7495565500.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|기타자본항목,자본총계,제 10 기 1분기,,2196001220.0,,,,제 9 기 1분기,2479801106.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|결손금,자본총계,제 10 기 1분기,,-71624406326.0,,,,제 9 기 1분기,-61898228458.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,별도재무제표 [member],자본총계,제 10 기 1분기,,30511848386.0,,,32626209747.0,제 9 기 1분기,38083683077.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_Equity,자본 [구성요소]|자본잉여금 [구성요소],자본총계,제 10 기 1분기,,92316687992.0,,,,제 9 기 1분기,90006544929.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,별도재무제표 [member],주식보상비용,제 10 기 1분기,,174104017.0,,,,제 9 기 1분기,186145613.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|결손금,주식보상비용,제 10 기 1분기,,0.0,,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|기타자본항목,주식보상비용,제 10 기 1분기,,174104017.0,,,,제 9 기 1분기,186145613.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본금 [구성요소],주식보상비용,제 10 기 1분기,,0.0,,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,자본 [구성요소]|자본잉여금 [구성요소],주식보상비용,제 10 기 1분기,,0.0,,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본금 [구성요소],당기순이익,제 10 기 1분기,,0.0,,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|기타자본항목,당기순이익,제 10 기 1분기,,0.0,,,,제 9 기 1분기,0.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|결손금,당기순이익,제 10 기 1분기,,-2525995042.0,,,,제 9 기 1분기,-2431001422.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,별도재무제표 [member],당기순이익,제 10 기 1분기,,-2525995042.0,,,,제 9 기 1분기,-2431001422.0,,,20260515001957
+2026,11013,1분기보고서,quarterly,OFS,SCE,ifrs-full_ProfitLoss,자본 [구성요소]|자본잉여금 [구성요소],당기순이익,제 10 기 1분기,,0.0,,,,제 9 기 1분기,0.0,,,20260515001957
